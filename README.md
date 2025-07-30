@@ -17,9 +17,10 @@
 ---
 
 ### 📌 **Featured Projects**
+- **[ConvertX]([https://github.com/karthikrshet/convertx](https://github.com/karthikrshet/Play-With-Code))**
 - **[ConvertX](https://github.com/karthikrshet/convertx)** – All-in-one **unit & currency converter** with live API  
 - **[Modern Calculator](https://github.com/karthikrshet/modern-calculator)** – A clean & responsive calculator with dark mode  
-- **[Fall Game](https://github.com/karthikrshet/fall-game)** – A simple yet addictive endless platformer  
+- **[DropMaster-Game](https://github.com/karthikrshet/DropMaster-Game)** – A simple yet addictive endless platformer  
 - **[Analog Clock](https://github.com/karthikrshet/trendy-analog-clock)** – Stylish analog clock built using JavaScript  
 
 ---
