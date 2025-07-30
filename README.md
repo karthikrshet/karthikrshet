@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Karthik Rajesh Shet  
 
-<!--
-**karthikrshet/karthikrshet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Frontend Developer  
+🌱 Learning & Building with **HTML, CSS, JavaScript, React**  
+💻 Passionate about creating **responsive** and **user-friendly** interfaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 **Tech Stack**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 **Featured Projects**
+- **[ConvertX](https://github.com/karthikrshet/convertx)** – All-in-one **unit & currency converter** with live API  
+- **[Modern Calculator](https://github.com/karthikrshet/modern-calculator)** – A clean & responsive calculator with dark mode  
+- **[Fall Game](https://github.com/karthikrshet/fall-game)** – A simple yet addictive endless platformer  
+- **[Analog Clock](https://github.com/karthikrshet/trendy-analog-clock)** – Stylish analog clock built using JavaScript  
+
+---
+
+### 📊 **GitHub Stats**
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikrshet&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrshet&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 **Activity Graph**
+![Karthik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikrshet&theme=react-dark)
+
+---
+
+### 📫 **Let's Connect!**
+- **GitHub:** [github.com/karthikrshet](https://github.com/karthikrshet)  
+- **LinkedIn:** [linkedin.com/in/karthikrshet](#) *(Add your LinkedIn)*  
+- **Email:** *(Add your email here)*  
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."** ⭐
+
