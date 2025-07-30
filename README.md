@@ -37,8 +37,8 @@
 
 ### 📫 **Let's Connect!**
 - **GitHub:** [github.com/karthikrshet](https://github.com/karthikrshet)  
-- **LinkedIn:** [linkedin.com/in/karthikrshet](#) *(Add your LinkedIn)*  
-- **Email:** *(Add your email here)*  
+- **LinkedIn:** [https://karthikrshet.github.io/portfolio/](https://karthikrshet.github.io/portfolio/)
+- **Email:** *(kartikshet33@gmail.com)*  
 
 ---
 
