@@ -17,7 +17,7 @@
 ---
 
 ### 📌 **Featured Projects**
-- **[ConvertX]([https://github.com/karthikrshet/convertx](https://github.com/karthikrshet/Play-With-Code))**
+- **[PlayWithCode](https://github.com/karthikrshet/Play-With-Code)**
 - **[ConvertX](https://github.com/karthikrshet/convertx)** – All-in-one **unit & currency converter** with live API  
 - **[Modern Calculator](https://github.com/karthikrshet/modern-calculator)** – A clean & responsive calculator with dark mode  
 - **[DropMaster-Game](https://github.com/karthikrshet/DropMaster-Game)** – A simple yet addictive endless platformer  
