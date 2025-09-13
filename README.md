@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthik Rajesh Shet  
 
-### MCA Student | Frontend Developer  
-🌱 Learning & Building with **HTML, CSS, JavaScript, React**  
+### MCA Student | Frontend Developer  | Mern Stack Developer
+🌱 Learning & Building with **HTML, CSS, JavaScript, React, Node, express,**  
 💻 Passionate about creating **responsive** and **user-friendly** interfaces  
 
 ---
