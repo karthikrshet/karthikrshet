@@ -82,31 +82,15 @@
 </p>
 
 ---
- 
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <!-- 1️⃣ Developer coding animation (male, realistic) -->
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="80%" alt="Male Developer Coding" />
+  <img src="https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/raw/main/assets/showcase1.gif" width="80%" alt="Project Animation" />
   <br><br>
-
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
   <br><br>
-
-  <!-- 2️⃣ Futuristic dashboard visualization -->
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75%" alt="Futuristic Dashboard Interface" />
-  <br><br>
-
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
-  <br><br>
-
-  <!-- 3️⃣ Clean AI-powered coding visualization -->
-  <img src="https://media.giphy.com/media/26xBukhJg0HgM6Tn2/giphy.gif" width="70%" alt="AI Coding Visualization" />
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" alt="Creative Coding"/>
 </p>
-
-
 ---
 
 ## 🌐 Let's Connect  
