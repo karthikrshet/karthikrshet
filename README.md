@@ -13,7 +13,6 @@
   <br><br>
   👉 <b>Actively looking for roles in Software Engineering / Full Stack Development to contribute to innovative teams.</b>
 </p>
----
 
 ## 🎯 Core Competencies & Keywords 🔎
 
