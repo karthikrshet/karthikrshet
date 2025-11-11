@@ -87,25 +87,26 @@
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <!-- Coding scene with male developer -->
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="80%" alt="Male Developer Coding Animation" />
-  <br><br>
-
-  <!-- Gradient divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
-  <br><br>
-
-  <!-- Futuristic dashboard and tech interface -->
-  <img src="https://media.giphy.com/media/tX2B3XbR9c0p0/giphy.gif" width="75%" alt="Futuristic Tech Dashboard" />
+  <!-- Hero: Male developer working on futuristic AI systems -->
+  <img src="https://i.imgur.com/1Z3Z8wO.gif" width="85%" alt="AI Developer Workspace Animation" />
   <br><br>
 
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- Creative coding visualization (male dev theme) -->
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70%" alt="Creative Coding Scene" />
+  <!-- Dashboard visualization -->
+  <img src="https://i.imgur.com/6dJrjZc.gif" width="80%" alt="Data Dashboard Animation" />
+  <br><br>
+
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
+  <br><br>
+
+  <!-- Clean coding interface -->
+  <img src="https://i.imgur.com/nCEfYZk.gif" width="75%" alt="Full Stack Coding Animation" />
 </p>
+
 
 
 
