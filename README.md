@@ -87,25 +87,26 @@
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <!-- Hero section: futuristic workspace -->
-  <img src="https://i.imgur.com/0Z8Yd6h.gif" width="85%" alt="Futuristic Developer Workspace" />
+  <!-- Coding scene with male developer -->
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="80%" alt="Male Developer Coding Animation" />
+  <br><br>
+
+  <!-- Gradient divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
+  <br><br>
+
+  <!-- Futuristic dashboard and tech interface -->
+  <img src="https://media.giphy.com/media/tX2B3XbR9c0p0/giphy.gif" width="75%" alt="Futuristic Tech Dashboard" />
   <br><br>
 
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- AI & dashboard interface -->
-  <img src="https://i.imgur.com/qVxW7Vf.gif" width="80%" alt="AI Dashboard Animation" />
-  <br><br>
-
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
-  <br><br>
-
-  <!-- Clean creative coding animation -->
-  <img src="https://i.imgur.com/Xh6tFXO.gif" width="75%" alt="Creative Coding Animation" />
+  <!-- Creative coding visualization (male dev theme) -->
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70%" alt="Creative Coding Scene" />
 </p>
+
 
 
 
