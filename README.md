@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik Rajesh Shet  
 
-### MCA Student | Frontend Developer | MERN Stack Developer
+### MCA Graduate | Frontend Developer | MERN Stack Developer
 🌱 Learning & Building with **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**   
 💻 Passionate about creating **responsive** and **user-friendly** interfaces  
 
