@@ -1,60 +1,60 @@
-<!-- Gradient Header -->
+<!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Karthik%20Rajesh%20Shet&fontAlignY=40&color=0:38bdf8,100:9333ea&fontColor=ffffff&fontSize=48&desc=MERN%20Stack%20Developer%20|%20AI%20&%20Web%20Enthusiast&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Karthik%20Rajesh%20Shet&fontAlignY=40&color=0:38bdf8,100:9333ea&fontColor=ffffff&fontSize=48&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20MERN%20Specialist&descAlignY=65&descAlign=50" />
 </div>
 
 ---
 
-<h2 align="center">👋 Hey there! Welcome to my digital universe 🚀</h2>
+<h2 align="center">👋 Hey there! Welcome to my GitHub Universe 🚀</h2>
 
 <p align="center">
-  I'm <b>Karthik Rajesh Shet</b> — a passionate <b>MCA Graduate</b> and <b>MERN Stack Developer</b> crafting interactive, scalable, and AI-enhanced web apps.  
-  <br>  
-  🌈 Focused on blending creativity, performance, and intelligence into every project.  
+  I'm <b>Karthik Rajesh Shet</b> — a <b>Full Stack Developer</b> and <b>Software Engineer</b> who loves building modern, intelligent, and scalable web solutions.  
+  <br>
+  💡 Passionate about crafting systems that combine performance, design, and intelligence.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at work" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-- 🎓 **MCA Graduate** specializing in software development & system design  
-- 💻 Expertise: **React**, **Node.js**, **Express**, **MongoDB**, **Tailwind CSS**  
-- 🧠 Exploring **AI Integration**, **Real-Time Systems**, and **Scalable APIs**  
-- 🚀 Creator of **Nexora** — a smart multi-utility web portal  
-- ⚡ Love designing sleek UI, debugging efficiently, and mentoring peers  
-- 🎶 Fun fact: I code best with a lo-fi playlist and cold coffee ☕  
+- 🎓 **MCA Graduate** with a strong foundation in Software Development & System Design  
+- 💻 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, **Tailwind**, and **TypeScript**  
+- ⚙️ Experienced in **API Development**, **Authentication**, and **AI Integration**  
+- 🧩 Exploring **real-time systems**, **automation tools**, and **AI-based web utilities**  
+- 🌱 Constantly learning new tech and improving scalability, performance & design  
+- ☕ Fun fact: I write cleaner code when sipping coffee & vibing to synthwave 🎶  
 
 ---
 
-## ⚙️ My Tech Arsenal  
+## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,tailwind,html,css,javascript,python,git,github,postman,vscode,vercel&perline=8" />
 </p>
 
 ---
 
-## 🌟 Featured Project — Nexora  
+## 🚀 Featured Project — Nexora  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/main/frontend/public/logo.png" width="110" alt="Nexora Logo"/>
+  <img src="https://raw.githubusercontent.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/main/frontend/public/logo.png" width="120" alt="Nexora Logo"/>
 </p>
 
 ### 🔗 [Nexora — Multi-Utility Web Portal with Real-Time Tracking & AI Integration](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)
 
-> **One Portal. Infinite Possibilities.**  
-> A full-featured productivity hub that merges multiple utilities, live tracking, and AI support into a single experience — powered by **React**, **Node.js**, **MongoDB**, and **OpenAI API**.
+> **One platform. Endless possibilities.**  
+> A next-gen productivity hub offering multi-utility tools, real-time analytics, and AI assistance — all built with **React**, **Node.js**, and **OpenAI API**.
 
 #### ✨ Highlights
-- 🤖 **AI Chatbot Integration** — Natural conversation powered by OpenAI  
-- 📊 **Real-Time Usage Tracking** — Live analytics using Socket.IO  
-- 🧩 **10+ Utility Tools** — Notes, QR Generator, Converters, Password Generator, and more  
-- 🧠 **Smart Modular Architecture** — Add new tools effortlessly  
-- 💎 **Modern UI/UX** — Built with React + Tailwind + Framer Motion  
+- 🤖 **AI Assistant** — Natural chat interaction using OpenAI  
+- 📊 **Live Usage Analytics** — Real-time tracking powered by Socket.IO  
+- 🧩 **All-in-One Toolkit** — Notes, Converters, QR Generator, Password Tool, and more  
+- 💡 **Dynamic Dashboard** — Responsive analytics and live usage data  
+- ⚙️ **Modular Architecture** — Easily scalable and maintainable  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/main/assets/preview.png" width="85%" alt="Nexora Screenshot"/>
@@ -62,28 +62,28 @@
 
 ---
 
-## 💡 Other Notable Projects  
+## 💡 Other Projects  
 
 | 🧩 Project | ⚡ Description |
 |:------------|:---------------|
-| [🎮 DropMaster-Game](https://github.com/karthikrshet/DropMaster-Game) | Addictive endless platformer built using pure JavaScript |
-| [💡 ConvertX](https://github.com/karthikrshet/ConvertX-All-in-One-Converter) | All-in-one converter with live currency API |
-| [🧮 Modern Calculator](https://github.com/karthikrshet/modern-calculator) | Clean, responsive calculator with dark/light modes |
-| [⌚ Analog Clock](https://github.com/karthikrshet/analog-clock) | Elegant analog clock using CSS & JS |
-| [🧑‍💻 PlayWithCode](https://github.com/karthikrshet/Play-With-Code) | Interactive live coding playground for quick testing |
+| [🎮 DropMaster-Game](https://github.com/karthikrshet/DropMaster-Game) | Addictive platformer game built in pure JavaScript |
+| [💡 ConvertX](https://github.com/karthikrshet/ConvertX-All-in-One-Converter) | All-in-one converter with live currency data |
+| [🧮 Modern Calculator](https://github.com/karthikrshet/modern-calculator) | Responsive calculator with dark/light themes |
+| [⌚ Analog Clock](https://github.com/karthikrshet/analog-clock) | A minimalist analog clock made using JS |
+| [🧑‍💻 PlayWithCode](https://github.com/karthikrshet/Play-With-Code) | Interactive live coding environment for experiments |
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikrshet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=9333ea" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrshet&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikrshet&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=9333ea&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrshet&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=00000000" height="180" />
 </p>
 
 ---
 
-## ⚡ Activity & Contribution  
+## ⚡ Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikrshet&bg_color=0D1117&color=38bdf8&line=9333ea&point=ffffff&area=true&hide_border=true" />
@@ -91,12 +91,14 @@
 
 ---
 
-## 🌈 Fun Visuals  
+## 🌟 Visual Highlights  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" alt="Coding Fun"/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/raw/main/assets/showcase1.gif" width="80%" alt="Project Animation" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <br><br>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" alt="Creative Coding"/>
 </p>
 
 ---
