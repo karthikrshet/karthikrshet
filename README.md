@@ -82,16 +82,31 @@
 </p>
 
 ---
+ 
 
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <img src="https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/raw/main/assets/showcase1.gif" width="80%" alt="Project Animation" />
+  <!-- Smooth animated coding scene -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding Animation" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+  <!-- Stylish gradient divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
   <br><br>
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" alt="Creative Coding"/>
+
+  <!-- Futuristic UI animation -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="Futuristic Interface" />
+  <br><br>
+
+  <!-- Another clean divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+  <br><br>
+
+  <!-- Subtle creative coding gif -->
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43K/giphy.gif" width="60%" alt="Creative Coding" />
 </p>
+
 
 ---
 
