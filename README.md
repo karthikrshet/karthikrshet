@@ -83,32 +83,28 @@
 
 ---
  
-
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <!-- Hero: Male developer working on futuristic AI systems -->
-  <img src="https://i.imgur.com/1Z3Z8wO.gif" width="85%" alt="AI Developer Workspace Animation" />
+  <!-- 1️⃣ Developer coding animation (male, realistic) -->
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="80%" alt="Male Developer Coding" />
   <br><br>
 
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- Dashboard visualization -->
-  <img src="https://i.imgur.com/6dJrjZc.gif" width="80%" alt="Data Dashboard Animation" />
+  <!-- 2️⃣ Futuristic dashboard visualization -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75%" alt="Futuristic Dashboard Interface" />
   <br><br>
 
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- Clean coding interface -->
-  <img src="https://i.imgur.com/nCEfYZk.gif" width="75%" alt="Full Stack Coding Animation" />
+  <!-- 3️⃣ Clean AI-powered coding visualization -->
+  <img src="https://media.giphy.com/media/26xBukhJg0HgM6Tn2/giphy.gif" width="70%" alt="AI Coding Visualization" />
 </p>
-
-
-
 
 
 ---
