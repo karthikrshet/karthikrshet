@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik Rajesh Shet  
 
-### MCA Graduate | Frontend Developer | MERN Stack Developer
+### MCA Graduate | Frontend Developer | MERN Stack Developer | Software Engineer
 🌱 Learning & Building with **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**   
 💻 Passionate about creating **responsive** and **user-friendly** interfaces  
 
@@ -39,7 +39,7 @@
 ### 📫 **Let's Connect!**
 - **GitHub:** [github.com/karthikrshet](https://github.com/karthikrshet)  
 - **LinkedIn:** [https://karthikrshet.github.io/portfolio/](https://karthikrshet.github.io/portfolio/)
-- **Email:** *(kartikshet33@gmail.com)*  
+- **Email:** *(kartikrshet@gmail.com)*  
 
 ---
 
