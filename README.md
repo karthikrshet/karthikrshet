@@ -87,25 +87,26 @@
 ## 🌟 Visual Highlights  
 
 <p align="center">
-  <!-- Smooth animated coding scene -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding Animation" />
+  <!-- Hero section: futuristic workspace -->
+  <img src="https://i.imgur.com/0Z8Yd6h.gif" width="85%" alt="Futuristic Developer Workspace" />
   <br><br>
 
-  <!-- Stylish gradient divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- Futuristic UI animation -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="Futuristic Interface" />
+  <!-- AI & dashboard interface -->
+  <img src="https://i.imgur.com/qVxW7Vf.gif" width="80%" alt="AI Dashboard Animation" />
   <br><br>
 
-  <!-- Another clean divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="Divider" />
   <br><br>
 
-  <!-- Subtle creative coding gif -->
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43K/giphy.gif" width="60%" alt="Creative Coding" />
+  <!-- Clean creative coding animation -->
+  <img src="https://i.imgur.com/Xh6tFXO.gif" width="75%" alt="Creative Coding Animation" />
 </p>
+
 
 
 ---
