@@ -40,9 +40,6 @@
 
 ## 🚀 Featured Project — Nexora  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/main/frontend/public/logo.png" width="120" alt="Nexora Logo"/>
-</p>
 
 ### 🔗 [Nexora — Multi-Utility Web Portal with Real-Time Tracking & AI Integration](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)
 
@@ -55,11 +52,6 @@
 - 🧩 **All-in-One Toolkit** — Notes, Converters, QR Generator, Password Tool, and more  
 - 💡 **Dynamic Dashboard** — Responsive analytics and live usage data  
 - ⚙️ **Modular Architecture** — Easily scalable and maintainable  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration/main/assets/preview.png" width="85%" alt="Nexora Screenshot"/>
-</p>
-
 ---
 
 ## 💡 Other Projects  
