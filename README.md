@@ -13,14 +13,9 @@
   <br><br>
   👉 <b>Actively looking for roles in Software Engineering / Full Stack Development to contribute to innovative teams.</b>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Full Stack Developer coding MERN stack application" />
-</p>
-
 ---
 
-## 🎯 Core Competencies & Keywords (For Recruiters & SEO) 🔎
+## 🎯 Core Competencies & Keywords 🔎
 
 -   **Full Stack (MERN) Development:** Skilled in **React.js**, **Node.js**, **Express.js**, and **MongoDB** for building scalable applications.  
 -   **Backend & API Engineering:** Experience in **RESTful APIs**, **JWT Authentication**, and secure data handling.  
