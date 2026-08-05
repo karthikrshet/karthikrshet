@@ -276,3 +276,4 @@ if __name__ == "__main__":
 # Commit 5: Standardize font metrics
 # Commit 6: SQL fallback path
 # Commit 7: Windows fallback path
+# Commit 17: Organize badge maps
