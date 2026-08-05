@@ -30,9 +30,9 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-overview.svg" width="720" height="auto" alt="Live GitHub profile overview" />
-<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-languages.svg" width="720" height="auto" alt="Top languages" />
-<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-heatmap.svg" width="720" height="auto" alt="Contribution heatmap" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-overview.svg?v=3" width="720" height="auto" alt="Live GitHub profile overview" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-languages.svg?v=3" width="720" height="auto" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-heatmap.svg?v=3" width="720" height="auto" alt="Contribution heatmap" />
 
 </div>
 
@@ -200,11 +200,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 

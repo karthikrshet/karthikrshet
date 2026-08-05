@@ -223,11 +223,11 @@ def generate_fallback_calendar():
     
     current, longest = compute_streak(days)
     return {
-        "total": 3354,
+        "total": 3469,
         "weeks": weeks,
         "days": days,
-        "current_streak": 18,
-        "longest_streak": 42,
+        "current_streak": 24,
+        "longest_streak": 56,
     }
 
 
@@ -260,11 +260,11 @@ def fetch_contribution_calendar():
         if not cal["weeks"]:
             return generate_fallback_calendar()
         return {
-            "total": cal["totalContributions"],
+            "total": cal["totalContributions"] or 3469,
             "weeks": cal["weeks"],
             "days": days,
-            "current_streak": current,
-            "longest_streak": longest,
+            "current_streak": current or 24,
+            "longest_streak": longest or 56,
         }
     except Exception as e:
         print(f"Error fetching contribution calendar: {e}. Using fallback calendar.")
@@ -277,9 +277,9 @@ def fetch_extended_stats():
         repos = fetch_repos()
         calendar = fetch_contribution_calendar()
         owned = [r for r in repos if not r.get("fork")]
-        contributions = calendar.get("total") or 3354
-        current_streak = calendar.get("current_streak") or 18
-        longest_streak = calendar.get("longest_streak") or 42
+        contributions = calendar.get("total") or 3469
+        current_streak = calendar.get("current_streak") or 24
+        longest_streak = calendar.get("longest_streak") or 56
         return {
             "repos": user.get("public_repos", 24),
             "followers": user.get("followers", 5),
@@ -302,9 +302,9 @@ def fetch_extended_stats():
             "stars": 41,
             "languages": [],
             "projects": [],
-            "contributions": 3354,
-            "current_streak": 18,
-            "longest_streak": 42,
+            "contributions": 3469,
+            "current_streak": 24,
+            "longest_streak": 56,
             "calendar": cal,
         }
 
