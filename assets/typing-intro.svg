@@ -1,102 +1,32 @@
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 700 40'
-    style='background-color: #00000000;'
-    width='700px' height='40px'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="auto" viewBox="0 0 720 44" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Typing intro">
+  <title>Typing intro</title>
+  <rect width="720" height="44" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="16" y="28" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#3B82F6">karthik=#</text>
 
-    <style>
-@font-face {
-  font-family: 'Fira Code';
-  font-style: normal;
-  font-weight: 400;
-  font-display: fallback;
-  src: url(data:font/truetype;base64,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AAAABwAFAAkADQAQABMAFQAZABwDmgOaA5oDmgOaAx4DEAMCAwIChgJ4AmoCagIYAgoDAgGsAZ4BkAFKATAA5ADWAMgAugBIADoAOgABAAAAAQAIAAEDUgABAAYAAAAEAEIAMgAgAA4AAwABAEQAAQM+AAAAAQAAABsAAwAAAAEDLAABADIAAQAAABoAAwABACAAAQMaAAEANgAAAAMAAQAmAAEDCgABABAAAAACAAMADQATAAAAFQAhAAcAJQAlABQAAgABAAEADAAAAAEAAAABAAgAAQLSAAcAAQAAAAEACAABAsQACAABAAAAAQAIAAECtgAGAAYAAAADADAAHgAMAAMAAAABAqQAAQKkAAEAAAAYAAMAAQAmAAECkgAAAAEAAAAXAAMAAQAUAAECgAABAoAAAQAAABYAAQACAC4ALwABAAAAAQAIAAIACgACACIAIwABAAIAEwAXAAYAAAACACwACgADAAEAGAABABIAAAABAAAAFAABAAEAFwABAAMABgAHACMAAwABABIAAQIyAAAAAQAAABQAAQACABEAIgABAAAAAQAIAAEAbAABAAEAAAABAAgAAQBeAAcABgAAAAQASAA4ACAADgADAAAAAQBKAAEASgABAAAAEgADAAEAEgABADgAAAABAAAAEQABAAEAJwADAAAAAQAgAAIAIAAgAAAAAwABABAAAQAQAAEAEAAAAAEAAQAmAAEAAAABAAgAAQGCAAMABgAAAAQAQgAyACAADgADAAAAAQFuAAEBbgABAAAADwADAAEBMgABAVwAAAABAAAADgADAAAAAQFKAAIBSgFKAAAAAwABAToAAQE6AAEBOgAAAAEAAAABAAgAAQCKAAQAAQAAAAEACAABAHwABQAGAAAABQBkAFIAOAAkABAAAwAAAAEAZgACAGYAZgABAAAADAADAAEAKAABAFIAAQBSAAEAAAALAAMAAgAUABQAAQA+AAAAAQAAAAoAAQABACQAAwAAAAEAJAADACQAJAAkAAAAAwABABIAAQASAAIAEgASAAAAAQABACAAAQAAAAEACAABAIoAAgABAAAAAQAIAAEAfAAEAAYAAAAFAGQAUgA4ACQAEAADAAAAAQBmAAIAZgBmAAEAAAAIAAMAAQAoAAEAUgABAFIAAQAAAAcAAwACABQAFAABAD4AAAABAAAABgABAAEAKgAD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) format('truetype');
-}
-</style>
+  <path id="t0" d="M108,28 h0" fill="none">
+    <animate id="a0" attributeName="d" begin="0s;a2.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t0">Software Engineer &amp; Founder @ CodeMyFYP</textPath>
+  </text>
 
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d5.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            Software Engineer
-        </textPath>
-    </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            Full Stack Developer
-        </textPath>
-    </text>
-        <path id='path2'>
-                            <!-- Single line -->
-                                <animate id='d2' attributeName='d' begin='d1.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path2'>
-            Open Source Maintainer
-        </textPath>
-    </text>
-        <path id='path3'>
-                            <!-- Single line -->
-                                <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path3'>
-            AI Product Builder
-        </textPath>
-    </text>
-        <path id='path4'>
-                            <!-- Single line -->
-                                <animate id='d4' attributeName='d' begin='d3.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path4'>
-            Founder @ CodeMyFYP
-        </textPath>
-    </text>
-        <path id='path5'>
-                            <!-- Single line -->
-                                <animate id='d5' attributeName='d' begin='d4.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#2563EB' font-size='17'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path5'>
-            Creator of Career-Agents
-        </textPath>
-    </text>
+  <path id="t1" d="M108,28 h0" fill="none">
+    <animate id="a1" attributeName="d" begin="a0.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t1">Creator of Career-Agents — 146+ Open-Source AI Agents</textPath>
+  </text>
+
+  <path id="t2" d="M108,28 h0" fill="none">
+    <animate id="a2" attributeName="d" begin="a1.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t2">Building AI Products, Developer Tools &amp; Scalable Systems</textPath>
+  </text>
 </svg>
