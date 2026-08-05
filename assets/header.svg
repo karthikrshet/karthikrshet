@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="auto" viewBox="0 0 900 260" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Karthik Rajesh Shet — Software Engineer, Founder @ CodeMyFYP, Building Career-Agents">
+  <title>Karthik Rajesh Shet profile header</title>
+  <defs>
+    <linearGradient id="elev-header" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#1F1B2E"/>
+    </linearGradient>
+    <linearGradient id="accent-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <clipPath id="clip-header">
+      <rect x="1" y="1" width="898" height="258" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip-header)">
+    <rect x="1" y="1" width="898" height="258" fill="url(#elev-header)" stroke="#30363D"/>
+    <rect x="1" y="1" width="4" height="258" fill="url(#accent-glow)"/>
+
+    <rect x="1" y="1" width="898" height="36" fill="#161B22"/>
+    <circle cx="22" cy="18" r="4.5" fill="#EC4899"/>
+    <circle cx="40" cy="18" r="4.5" fill="#7C3AED"/>
+    <circle cx="58" cy="18" r="4.5" fill="#2563EB"/>
+    <text x="450" y="22" text-anchor="middle" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">psql — @karthikrshet (AI &amp; Developer Operating System)</text>
+    <line x1="1" y1="37" x2="899" y2="37" stroke="#30363D"/>
+
+    <text x="28" y="70" fill="#3B82F6" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">karthik=#</text>
+    <text x="112" y="70" fill="#F0F6FC" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">SELECT name, role, company, flagship FROM engineers WHERE handle = 'karthikrshet';</text>
+
+    <line x1="28" y1="92" x2="872" y2="92" stroke="#30363D"/>
+    <text x="40" y="114" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.6">name</text>
+    <text x="250" y="114" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.6">role</text>
+    <text x="520" y="114" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.6">company</text>
+    <text x="690" y="114" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.6">flagship</text>
+    <line x1="28" y1="126" x2="872" y2="126" stroke="#30363D"/>
+
+    <text x="40" y="158" fill="#F0F6FC" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" font-weight="700">Karthik R Shet</text>
+    <text x="250" y="158" fill="#F0F6FC" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" font-weight="700">Software Engineer</text>
+    <text x="520" y="158" fill="#EC4899" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" font-weight="700">CodeMyFYP</text>
+    <text x="690" y="158" fill="#3B82F6" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" font-weight="700">Career-Agents</text>
+
+    <line x1="28" y1="176" x2="872" y2="176" stroke="#30363D"/>
+    <text x="28" y="198" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">(1 row)</text>
+
+    <text x="28" y="228" fill="#8B949E" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Software Engineer • Founder @ CodeMyFYP • AI Product Builder<tspan fill="#EC4899"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>_</tspan></text>
+    <text x="28" y="248" fill="#484F58" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">Next.js · TypeScript · Node.js · PostgreSQL · AI Agents · RAG · MCP Servers · Cloud Native</text>
+  </g>
+</svg>

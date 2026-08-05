@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="auto" viewBox="0 0 720 44" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Typing intro">
+  <title>Typing intro</title>
+  <rect width="720" height="44" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="16" y="28" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#3B82F6">karthik=#</text>
+
+  <path id="t0" d="M108,28 h0" fill="none">
+    <animate id="a0" attributeName="d" begin="0s;a2.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t0">Software Engineer &amp; Founder @ CodeMyFYP</textPath>
+  </text>
+
+  <path id="t1" d="M108,28 h0" fill="none">
+    <animate id="a1" attributeName="d" begin="a0.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t1">Creator of Career-Agents — 146+ Open-Source AI Agents</textPath>
+  </text>
+
+  <path id="t2" d="M108,28 h0" fill="none">
+    <animate id="a2" attributeName="d" begin="a1.end" dur="5500ms" fill="remove"
+             values="M108,28 h0; M108,28 h580; M108,28 h580; M108,28 h0"
+             keyTimes="0;0.45;0.85;1"/>
+  </path>
+  <text font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#F0F6FC">
+    <textPath xlink:href="#t2">Building AI Products, Developer Tools &amp; Scalable Systems</textPath>
+  </text>
+</svg>
