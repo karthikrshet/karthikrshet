@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:7c3aed&text=Karthik%20Rajesh%20Shet&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20•%20Founder%20%40%20CodeMyFYP%20•%20Open%20Source%20Builder&descAlignY=58&descSize=15&animation=fadeIn" width="720" height="auto" alt="Karthik Rajesh Shet" />
 
-<br /><br />
+<br />
 
 <a href="https://github.com/karthikrshet">
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full+Stack+Developer;Open+Source+Maintainer;AI+Product+Builder;Founder+%40+CodeMyFYP;Creator+of+Career-Agents&font=Fira+Code&center=true&width=700&height=40&color=2563EB&vCenter=true&size=17&pause=1800" alt="Typing SVG" />
@@ -187,11 +187,7 @@ career-agents path ai-engineer
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikrshet&theme=tokyo-night&hide_border=true&area=true" width="720" alt="GitHub Activity Graph" />
 
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthikrshet&show_icons=true&theme=tokyo-night&hide_border=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrshet&layout=compact&theme=tokyo-night&hide_border=true" height="170" alt="Top Languages" />
-
+<br />
 </div>
 
 ---
