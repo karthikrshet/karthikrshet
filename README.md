@@ -224,3 +224,4 @@ career-agents path ai-engineer
 <!-- Commit 23: Featured projects -->
 <!-- Commit 24: Experience impact -->
 <!-- Commit 25: Certifications table -->
+<!-- Commit 26: Education table -->
