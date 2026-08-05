@@ -693,3 +693,4 @@ if __name__ == "__main__":
 # Commit 2: Stat overview fallbacks
 # Commit 18: Top languages counter
 # Commit 19: Describe event handler
+# Commit 20: Exception handling fetch_repos
