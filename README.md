@@ -158,6 +158,28 @@ career-agents path ai-engineer
 
 ---
 
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>-- github achievements</code></p>
+
+<div align="center">
+
+<a href="https://github.com/karthikrshet?tab=achievements">
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=karthikrshet&theme=tokyo-night" alt="GitHub Achievements" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/karthikrshet?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7694a1d4.png" width="72" height="72" alt="Pair Extraordinaire x2" title="Pair Extraordinaire x2" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c206b.png" width="72" height="72" alt="Pull Shark x2" title="Pull Shark x2" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c4f172.png" width="72" height="72" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/yolo-default-40b08e23.png" width="72" height="72" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d6414.png" width="72" height="72" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+</a>
+
+</div>
+
+---
+
 <p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>-- certifications & achievements</code></p>
 
 | Category | Achievement / Credential |
