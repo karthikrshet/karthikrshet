@@ -1,176 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,50:7c3aed,100:ec4899&text=Karthik%20Rajesh%20Shet&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20•%20Founder%20@%20CodeMyFYP%20•%20Open%20Source%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:7c3aed&text=Karthik%20Rajesh%20Shet&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20•%20Founder%20%40%20CodeMyFYP%20•%20Open%20Source%20Builder&descAlignY=58&descSize=15&animation=fadeIn" width="720" height="auto" alt="Karthik Rajesh Shet" />
 
-<p>
+<br /><br />
+
 <a href="https://github.com/karthikrshet">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full+Stack+Developer;Open+Source+Maintainer;AI+Product+Builder;Founder+%40+CodeMyFYP;Creator+of+Career-Agents&font=Fira+Code&center=true&width=700&height=40&color=2563EB&vCenter=true&size=18&pause=1800" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full+Stack+Developer;Open+Source+Maintainer;AI+Product+Builder;Founder+%40+CodeMyFYP;Creator+of+Career-Agents&font=Fira+Code&center=true&width=700&height=40&color=2563EB&vCenter=true&size=17&pause=1800" alt="Typing SVG" />
 </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=karthikrshet&style=for-the-badge&color=2563eb" />
 
 <br /><br />
 
-<a href="https://karthikrajeshshet.vercel.app"><img src="./assets/badges/badge-portfolio.svg" height="28" alt="Portfolio" /></a>
-<a href="mailto:kartikrshet@gmail.com"><img src="./assets/badges/badge-email.svg" height="28" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/karthik-rajesh-shet"><img src="./assets/badges/badge-linkedin.svg" height="28" alt="LinkedIn" /></a>
-<a href="https://github.com/karthikrshet"><img src="./assets/badges/badge-github.svg" height="28" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/karthikrshet/"><img src="./assets/badges/badge-leetcode.svg" height="28" alt="LeetCode" /></a>
-<a href="https://www.npmjs.com/package/career-agents"><img src="./assets/badges/badge-npm.svg" height="28" alt="NPM" /></a>
-<a href="https://github.com/sponsors/karthikrshet"><img src="./assets/badges/badge-sponsors.svg" height="28" alt="Sponsors" /></a>
+<a href="https://karthikrajeshshet.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfolio" /></a>
+<a href="mailto:kartikrshet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/karthik-rajesh-shet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+<a href="https://github.com/karthikrshet"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/karthikrshet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode" /></a>
+<a href="https://www.npmjs.com/package/career-agents"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM" /></a>
+<a href="https://github.com/sponsors/karthikrshet"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="28" alt="Sponsors" /></a>
 
 <br /><br />
 
-<img src="./assets/header.svg" width="720" height="auto" alt="Karthik Rajesh Shet — Software Engineer & Founder" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/header.svg" width="720" height="auto" alt="Karthik Rajesh Shet — Terminal Header" />
 
 <br /><br />
 
-<img src="./assets/badges/badge-company.svg" height="26" alt="CodeMyFYP" />
-<img src="./assets/badges/badge-role.svg" height="26" alt="Software Engineer & Founder" />
-<img src="./assets/badges/badge-focus.svg" height="26" alt="AI & Full Stack" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/badges/badge-company.svg" height="26" alt="CodeMyFYP" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/badges/badge-role.svg" height="26" alt="Software Engineer & Founder" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/badges/badge-focus.svg" height="26" alt="AI & Full Stack" />
 
 <br /><br />
 
-<img src="./assets/stat-overview.svg" width="720" height="auto" alt="Live GitHub profile overview" />
-<img src="./assets/stat-languages.svg" width="720" height="auto" alt="Top languages" />
-<img src="./assets/stat-heatmap.svg" width="720" height="auto" alt="Contribution heatmap" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-overview.svg" width="720" height="auto" alt="Live GitHub profile overview" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-languages.svg" width="720" height="auto" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/stat-heatmap.svg" width="720" height="auto" alt="Contribution heatmap" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-profile.svg" width="20" height="20" align="absmiddle" alt="profile icon" /> <code>-- profile</code></p>
 
-I'm a **Software Engineer, AI Engineer, and Founder** passionate about building production-grade AI applications, agentic workflows, scalable developer tools, distributed backend systems, and career technology.
-
-Currently focused on:
-
-- 🚀 Building & Scaling **Career-Agents** (146+ Open Source AI Agents & MCP Server)
-- 🏢 Leading & Expanding **CodeMyFYP** (EdTech SaaS & AI Software Solutions)
-- 🤖 Engineering **Agentic AI & RAG Systems** using Next.js, Node.js, Python & LLM APIs
-- 🌍 Growing open-source communities & developer ecosystems
-- 💼 Mentoring engineers & helping developers accelerate their careers
-
-### ⚡ Quick Facts
-
-- 🎓 **MCA Graduate** (Specialization in AI & ML)
-- 💻 **Full Stack & AI Engineer** (TypeScript, Next.js, Python, PostgreSQL, Redis, Docker)
-- 🚀 **Founder & Lead Engineer** @ CodeMyFYP
-- 🤖 **Creator** of 146+ AI Agent workflows & MCP Servers
-- 📊 **284 Solved on LeetCode** with 97.8% Acceptance Rate
-- 📍 **Bengaluru, Karnataka, India**
+> **Software Engineer, AI Engineer & Founder** with hands-on experience designing, building, and deploying production-grade AI applications, Large Language Model (LLM) workflows, Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, and Model Context Protocol (MCP) servers. Experienced in developing scalable backend microservices using **TypeScript, Python, Next.js, Node.js, PostgreSQL, Redis, and Docker**.
+>
+> Founder of **CodeMyFYP** and maintainer of **Career-Agents**, an open-source AI career operating system with 146+ specialized agents. Strong CS fundamentals backed by **284 solved problems on LeetCode with a 97.8% acceptance rate**.
 
 ---
 
-# 🌟 Flagship Project — Career-Agents
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-stack.svg" width="20" height="20" align="absmiddle" alt="stack icon" /> <code>-- stack</code></p>
 
-## ⚡ The Open Source Career Operating System
+**AI & Machine Learning**  
+`OpenAI API` · `Gemini API` · `Claude API` · `Agentic AI` · `RAG Pipelines` · `Vector Search` · `Model Context Protocol (MCP)` · `Prompt Engineering`
 
-**Career-Agents** is an open-source AI platform, CLI, and Model Context Protocol (MCP) server that empowers students, developers, and professionals to optimize resumes, prepare for interviews, analyze market match, and navigate career paths with specialized AI agents.
+**Languages & Frontend**  
+`TypeScript` · `JavaScript` · `Python` · `Java` · `Kotlin` · `React.js` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
 
-[![npm version](https://img.shields.io/npm/v/career-agents?style=for-the-badge&color=2563eb)](https://www.npmjs.com/package/career-agents)
-[![npm downloads](https://img.shields.io/npm/dm/career-agents?style=for-the-badge&color=7c3aed)](https://www.npmjs.com/package/career-agents)
-[![GitHub Stars](https://img.shields.io/github/stars/karthikrshet/Career-Agents?style=for-the-badge&color=ec4899)](https://github.com/karthikrshet/Career-Agents)
-[![GitHub License](https://img.shields.io/github/license/karthikrshet/Career-Agents?style=for-the-badge)](https://github.com/karthikrshet/Career-Agents)
+**Backend & Distributed Systems**  
+`Node.js` · `Express.js` · `Fastify` · `REST APIs` · `GraphQL` · `Microservices` · `BullMQ` · `Idempotent APIs` · `Webhooks`
 
-### ✨ Highlights
+**Databases & Storage**  
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Prisma ORM` · `Schema Design` · `Query Optimization`
 
-✅ **146+ Specialized AI Career Agents** across 19 divisions  
-✅ **Model Context Protocol (MCP) Server** for Claude Desktop, Cursor & Windsurf  
-✅ **ATS Resume Studio & Builder** with real-time scoring engine  
-✅ **Job Match Intelligence & Resume Parsing**  
-✅ **Company Interview Tracks & Knowledge Graph**  
-✅ **Global CLI & Published NPM Package**  
+**Cloud, DevOps & Tooling**  
+`AWS` · `Docker` · `GitHub Actions` · `Linux` · `Nginx` · `Git` · `Postman` · `VS Code` · `Jest`
+
+---
+
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- flagship project</code></p>
+
+### Career-Agents — The Open Source Career Operating System
+
+Career-Agents is an open-source AI platform, global CLI, and Model Context Protocol (MCP) server that empowers students, developers, and professionals to optimize resumes, prepare for interviews, analyze job compatibility, and navigate career paths using specialized AI agents.
+
+| Feature | Details |
+| :--- | :--- |
+| **Specialized Agents** | 146+ AI agents across 19 functional divisions |
+| **MCP Integration** | Production MCP server for Claude Desktop, Cursor, and Windsurf |
+| **Resume Intelligence** | ATS Resume Studio with scoring engine and job match intelligence |
+| **Deployment** | Global CLI published on NPM (`npm install -g career-agents`) |
 
 ```bash
-# Global Install
+# Global CLI Installation
 npm install -g career-agents
 
-# Quick Commands
+# Quick Start Commands
 career-agents doctor
 career-agents assess
 career-agents recommend
 career-agents company google
 career-agents path ai-engineer
-career-agents resume templates
 ```
 
-🔗 **Repository:** [github.com/karthikrshet/Career-Agents](https://github.com/karthikrshet/Career-Agents)  
-📦 **NPM Package:** [npmjs.com/package/career-agents](https://www.npmjs.com/package/career-agents)  
+- Repository: [github.com/karthikrshet/Career-Agents](https://github.com/karthikrshet/Career-Agents)
+- NPM Package: [npmjs.com/package/career-agents](https://www.npmjs.com/package/career-agents)
 
 ---
 
-# 🚀 Featured Projects
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- featured projects</code></p>
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| 🎯 **Career-Agents** | Open-source Career Operating System with 146+ AI Agents, MCP server & CLI | Next.js • TypeScript • Python • MCP • OpenAI • Gemini • Docker | [GitHub ↗](https://github.com/karthikrshet/Career-Agents) |
-| 🤖 **CareerByte AI** | AI-powered career copilot for job discovery, ATS optimization & application tracking | Next.js • TypeScript • PostgreSQL • Prisma • OpenAI • Gemini | [GitHub ↗](https://github.com/karthikrshet/CareerByte-AI) |
-| 📈 **AdIntel AI** | AI campaign intelligence platform for media buyers (Meta, Google, TikTok, Taboola) | Next.js • TypeScript • PostgreSQL • OpenAI • Analytics Pipelines | [GitHub ↗](https://github.com/karthikrshet/adintel.ai) |
-| 📱 **GPU-Insight-AI** | Android GPU monitoring & AI diagnostics platform with real-time hardware telemetry | Kotlin • Jetpack Compose • Gemini AI • Room • Material 3 | [GitHub ↗](https://github.com/karthikrshet/GPU-Insight-AI) |
-| 🛡️ **auditforge-ai** | AI-powered website auditor for SEO, Performance, Accessibility & AI Visibility | Next.js • TypeScript • Gemini AI • Web Security Pipelines | [GitHub ↗](https://github.com/karthikrshet/auditforge-ai) |
-| 🧠 **LearnOS-ai** | AI-powered Learning OS generating personalized roadmaps, projects & workspaces | Next.js • TypeScript • PostgreSQL • OpenAI • Gemini | [GitHub ↗](https://github.com/karthikrshet/LearnOS-ai) |
-| 🔍 **CodeRAG** | Production-ready AST-parsed RAG engine for codebases with precise citations | Python • Tree-Sitter • PostgreSQL • Embeddings • LLMs | [GitHub ↗](https://github.com/karthikrshet/coderag) |
-| 🦅 **Kestrel** | Autonomous AI software engineering platform with multi-agent orchestration | Next.js • Fastify • TypeScript • Redis • BullMQ • PostgreSQL | [GitHub ↗](https://github.com/karthikrshet/kestrel) |
-| 🤖 **JobPilot AI** | Personal AI job copilot for automated discovery, match scoring & interview prep | Next.js 15 • TypeScript • PostgreSQL • Redis • BullMQ • Gemini | [GitHub ↗](https://github.com/karthikrshet/jobpilot-ai) |
-| 💳 **PayGateway** | Stripe-inspired payment gateway simulation with row-level locking & idempotency | Node.js • Express • PostgreSQL • React 18 • JWT • Docker | [GitHub ↗](https://github.com/karthikrshet/payment-gateway) |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | Open-source Career Operating System with 146+ AI Agents, MCP server & CLI | Next.js · TypeScript · Python · MCP · OpenAI | [GitHub ↗](https://github.com/karthikrshet/Career-Agents) |
+| **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | AI-powered career copilot for job discovery, ATS optimization & interview prep | Next.js · TypeScript · PostgreSQL · Prisma · Gemini | [GitHub ↗](https://github.com/karthikrshet/CareerByte-AI) |
+| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI campaign intelligence platform for media buyers (Meta, Google, TikTok) | Next.js · TypeScript · PostgreSQL · OpenAI | [GitHub ↗](https://github.com/karthikrshet/adintel.ai) |
+| **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Android GPU monitoring & AI diagnostics platform with real-time hardware telemetry | Kotlin · Jetpack Compose · Gemini AI · Room | [GitHub ↗](https://github.com/karthikrshet/GPU-Insight-AI) |
+| **[auditforge-ai ↗](https://github.com/karthikrshet/auditforge-ai)** | AI-powered website auditor for SEO, Performance, Accessibility & AI Visibility | Next.js · TypeScript · Gemini AI · Security Pipelines | [GitHub ↗](https://github.com/karthikrshet/auditforge-ai) |
+| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & workspaces | Next.js · TypeScript · PostgreSQL · OpenAI | [GitHub ↗](https://github.com/karthikrshet/LearnOS-ai) |
+| **[CodeRAG ↗](https://github.com/karthikrshet/coderag)** | Production-ready AST-parsed RAG engine for codebases with precise citations | Python · Tree-Sitter · PostgreSQL · Embeddings | [GitHub ↗](https://github.com/karthikrshet/coderag) |
+| **[Kestrel ↗](https://github.com/karthikrshet/kestrel)** | Autonomous AI software engineering platform with multi-agent orchestration | Next.js · Fastify · TypeScript · Redis · BullMQ | [GitHub ↗](https://github.com/karthikrshet/kestrel) |
+| **[JobPilot AI ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot for automated discovery, match scoring & interview prep | Next.js 15 · TypeScript · PostgreSQL · BullMQ | [GitHub ↗](https://github.com/karthikrshet/jobpilot-ai) |
 
 ---
 
-# 💻 Tech Stack
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- public repositories</code></p>
 
-## 🗣️ Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,php,cpp,html,css" />
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
-</p>
-
-## ⚙️ Backend & Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify" />
-</p>
-
-- REST APIs • GraphQL • Microservices • Idempotent APIs • Event-Driven Architecture • BullMQ • Webhooks
-
-## 🗄️ Databases & Storage
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
-</p>
-
-## ☁️ Cloud, DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,nginx" />
-</p>
-
-## 🤖 AI & Machine Learning
-
-- **LLM APIs:** OpenAI API, Gemini API, Claude API
-- **AI Architectures:** Agentic AI, Multi-Agent Orchestration, RAG Systems, Vector Search
-- **Protocols:** Model Context Protocol (MCP) Servers, Structured Tool Calling, Prompt Engineering
-
-## 🛠️ Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-- Prisma • Jest • Docker • Claude Code • Cursor • Windsurf
-
----
-
-# 📚 Public Repositories
-
-**Selected repositories** · refreshed every 12 hours via GitHub API
+**Selected public repositories** · refreshed every 12 hours via GitHub API
 
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
@@ -201,20 +144,44 @@ career-agents resume templates
 
 ---
 
-# 💼 Professional Experience
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-journey.svg" width="20" height="20" align="absmiddle" alt="journey icon" /> <code>-- experience</code></p>
 
-### **Founding Software Engineer** — *CodeMyFYP IT & Software Solutions* `2025 – Present`
-- Architected production-grade AI applications and backend services integrating LLM APIs, cloud-native architectures, REST APIs, PostgreSQL, Redis, and Docker, reducing query latency by 99%.
-- Built scalable distributed backend systems supporting multi-agent AI workflows, webhook integrations, and strict authentication with 99.9% uptime.
-- Led engineering delivery across 10+ live projects while mentoring 30+ interns and junior engineers following Agile practices.
+| Period | Role | Organization | Location |
+| :--- | :--- | :--- | :--- |
+| 2025 — Present | **Founding Software Engineer** | CodeMyFYP IT & Software Solutions | Bengaluru, Karnataka |
+| 2026 — Present | **Founding Lead Platform Engineer** | CodeMyFYP Academy | Bengaluru, Karnataka |
 
-### **Founding Lead Platform Engineer** — *CodeMyFYP Academy* `2026 – Present`
-- Engineered a multi-tenant EdTech SaaS platform serving students, educators, recruiters, and administrators across universities affiliated with VTU and Bangalore University (officially listed on the AICTE National Internship Portal).
-- Implemented granular Role-Based Access Control (RBAC) across 5 distinct user roles and integrated secure payment gateways with idempotent transaction handling and webhook reconciliations.
+**Selected Impact**
+
+- **CodeMyFYP IT & Software Solutions** — Built production-grade AI applications integrating LLM APIs, cloud-native REST services, PostgreSQL, Redis, and Docker, reducing query latency by 99%. Maintained 99.9% uptime across multi-agent AI workflows and led engineering across 10+ live projects while mentoring 30+ developers.
+- **CodeMyFYP Academy** — Engineered a multi-tenant EdTech SaaS platform serving students, educators, and recruiters across VTU and Bangalore University affiliated colleges (officially listed on the AICTE National Internship Portal). Implemented granular RBAC across 5 roles and integrated payment gateways with idempotent transaction handling.
 
 ---
 
-# 📊 GitHub Analytics
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>-- certifications & achievements</code></p>
+
+| Category | Achievement / Credential |
+| :--- | :--- |
+| **Competitive Programming** | 284+ problems solved on LeetCode with 97.8% acceptance rate |
+| **Coding Contests** | 6-time winner & 3-time runner-up in Sadhana Coding Contests |
+| **Open Source** | Maintainer of `career-agents` npm package (3,354+ GitHub contributions across 54 repos) |
+| **Government Credibility** | CodeMyFYP Academy is officially listed on the AICTE National Internship Portal |
+| **Industry Simulations** | Walmart Global Tech Software Engineering Simulation (2026) |
+| **Industry Simulations** | JPMorgan Chase & Co. Software Engineering Simulation (2026) |
+| **Industry Simulations** | Skyscanner Front-End Engineering Simulation (2026) |
+
+---
+
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-education.svg" width="20" height="20" align="absmiddle" alt="education icon" /> <code>-- education</code></p>
+
+| Programme | Institution | Specialization | Years |
+| :--- | :--- | :--- | :--- |
+| **Master of Computer Applications (MCA)** | Surana College (Autonomous), Bangalore University | AI & Machine Learning | 2023 — 2025 |
+| **Bachelor of Computer Applications (BCA)** | Global College of Management, Karnataka University | Computer Applications | 2020 — 2023 |
+
+---
+
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>-- analytics</code></p>
 
 <div align="center">
 
@@ -229,73 +196,25 @@ career-agents resume templates
 
 ---
 
-# 🏆 Certifications & Technical Achievements
-
-- 🏅 **LeetCode:** 284+ Problems Solved (70 Easy, 158 Medium, 56 Hard) with a **97.8% Acceptance Rate**
-- 🏆 **Sadhana Coding Contests:** 6-Time Winner & 3-Time Runner-Up in competitive algorithmic contests
-- 📦 **Open Source Maintainer:** Maintainer of `career-agents` npm package with 3,354+ GitHub contributions across 54 repositories
-- 🏢 **AICTE Recognition:** CodeMyFYP Academy is officially listed on the AICTE National Internship Portal
-- 📜 **Walmart Global Tech:** Advanced Software Engineering Job Simulation (2026)
-- 📜 **JPMorgan Chase & Co:** Software Engineering Job Simulation (2026)
-- 📜 **Skyscanner:** Front-End Software Engineering Job Simulation (2026)
-
----
-
-# 🎓 Education
-
-| Degree | Specialization / Focus | Institution | Duration |
-| :--- | :--- | :--- | :--- |
-| **Master of Computer Applications (MCA)** | Specialization in AI & ML | Surana College (Autonomous), Bangalore University | 2023 – 2025 |
-| **Bachelor of Computer Applications (BCA)** | Computer Applications & Software Dev | Global College of Management, Karnataka University | 2020 – 2023 |
-
----
-
-# 🎯 2026 Goals
-
-- ⭐ **1,000+ GitHub Stars** on Career-Agents
-- 📦 **10,000+ NPM Downloads** across career tooling packages
-- 🤝 Build a vibrant global open-source community around AI career agents
-- 🌐 Launch **CareerAgents.dev**
-- 🚀 Scale CodeMyFYP into a premier platform for developers and students
-
----
-
-# ⚡ Recent Activity
-
-Recent public GitHub activity, refreshed automatically:
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>-- activity</code></p>
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/karthik-rajesh-shet">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/karthikrshet">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:kartikrshet@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://karthikrajeshshet.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<h3>Let's build something.</h3>
 
-<br /><br />
-
-### 🚀 Building software & AI tools that empower people to learn, build, and grow.
+<p>Open to software engineering, full stack, and AI product collaboration.</p>
 
 <sub>karthikrshet · &copy; 2026 Karthik Rajesh Shet. All Rights Reserved.</sub>
 
