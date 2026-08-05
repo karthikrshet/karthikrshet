@@ -220,3 +220,4 @@ career-agents path ai-engineer
 
 </div>
 <!-- Commit 13: Raw URLs -->
+<!-- Commit 22: Feature table -->
