@@ -274,3 +274,4 @@ if __name__ == "__main__":
         ok = "<image" in content or name in META_BADGES
         print(f"validate {name}: {'OK' if ok else 'BROKEN'}")
 # Commit 5: Standardize font metrics
+# Commit 6: SQL fallback path
