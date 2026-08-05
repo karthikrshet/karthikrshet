@@ -227,3 +227,4 @@ career-agents path ai-engineer
 <!-- Commit 26: Education table -->
 <!-- Commit 27: Footer copyright -->
 <!-- Commit 31: Typography tags -->
+<!-- Commit 32: Final sync -->
