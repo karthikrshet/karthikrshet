@@ -59,3 +59,4 @@ Accent Glow  = #7C3AED / #EC4899 (Neon Purple & Sakura Pink)
 Border       = #30363D (Subtle Divider Line)
 Typography   = 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
 ```
+<!-- Commit 4: Refine asset manifest -->
