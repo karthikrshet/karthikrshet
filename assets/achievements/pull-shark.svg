@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="bg-shark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#bg-shark)" stroke="#FFFFFF" stroke-width="3.5" filter="url(#shadow)"/>
+  <!-- Shark Head -->
+  <path d="M48,18 C64,26 72,42 66,66 C50,72 32,64 26,44 C26,30 38,18 48,18 Z" fill="#93C5FD"/>
+  <path d="M34,42 Q40,32 48,22 Q56,32 62,42 Z" fill="#DBEAFE"/>
+  <!-- Shark Eye -->
+  <circle cx="40" cy="36" r="3.5" fill="#1E3A8A"/>
+  <circle cx="39" cy="35" r="1" fill="#FFFFFF"/>
+  <circle cx="56" cy="36" r="3.5" fill="#1E3A8A"/>
+  <circle cx="55" cy="35" r="1" fill="#FFFFFF"/>
+  <!-- Git PR Paper in Mouth -->
+  <rect x="36" y="52" width="24" height="16" rx="2" fill="#FFFFFF" transform="rotate(-6 48 60)"/>
+  <path d="M42,56 C42,62 50,62 50,56" stroke="#2563EB" stroke-width="2" fill="none"/>
+  <circle cx="42" cy="56" r="2" fill="#2563EB"/>
+  <circle cx="50" cy="56" r="2" fill="#2563EB"/>
+  <!-- x2 Counter Chip -->
+  <rect x="56" y="62" width="32" height="20" rx="10" fill="#FCA5A5" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="72" y="76" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">x2</text>
+</svg>
