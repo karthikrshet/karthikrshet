@@ -220,3 +220,4 @@ career-agents path ai-engineer
 
 </div>
 <!-- Commit 14: Raw URLs .github -->
+<!-- Commit 28: Footer copyright .github -->
