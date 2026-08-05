@@ -225,3 +225,4 @@ career-agents path ai-engineer
 <!-- Commit 24: Experience impact -->
 <!-- Commit 25: Certifications table -->
 <!-- Commit 26: Education table -->
+<!-- Commit 27: Footer copyright -->
