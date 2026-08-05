@@ -275,3 +275,4 @@ if __name__ == "__main__":
         print(f"validate {name}: {'OK' if ok else 'BROKEN'}")
 # Commit 5: Standardize font metrics
 # Commit 6: SQL fallback path
+# Commit 7: Windows fallback path
