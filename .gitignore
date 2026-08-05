@@ -12,3 +12,5 @@ Thumbs.db
 # Environment
 .env
 *.log
+
+# Commit 30: Gitignore patterns
