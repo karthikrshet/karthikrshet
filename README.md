@@ -38,7 +38,7 @@
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-profile.svg" width="20" height="20" align="absmiddle" alt="profile icon" /> <code>-- profile</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-profile.svg" width="20" height="20" align="absmiddle" alt="profile icon" /> <code>karthik=# profile</code></p>
 
 > **Software Engineer, AI Engineer & Founder** with hands-on experience designing, building, and deploying production-grade AI applications, Large Language Model (LLM) workflows, Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, and Model Context Protocol (MCP) servers. Experienced in developing scalable backend microservices using **TypeScript, Python, Next.js, Node.js, PostgreSQL, Redis, and Docker**.
 >
@@ -46,7 +46,7 @@
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-stack.svg" width="20" height="20" align="absmiddle" alt="stack icon" /> <code>-- stack</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-stack.svg" width="20" height="20" align="absmiddle" alt="stack icon" /> <code>karthik=# stack</code></p>
 
 **AI & Machine Learning**  
 `OpenAI API` · `Gemini API` · `Claude API` · `Agentic AI` · `RAG Pipelines` · `Vector Search` · `Model Context Protocol (MCP)` · `Prompt Engineering`
@@ -65,7 +65,7 @@
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- flagship project</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>karthik=# flagship project</code></p>
 
 ### Career-Agents — The Open Source Career Operating System
 
@@ -95,7 +95,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- featured projects</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>karthik=# featured projects</code></p>
 
 | Project | Description | Stack | Repository |
 | :--- | :--- | :--- | :--- |
@@ -111,7 +111,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>-- public repositories</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-works.svg" width="20" height="20" align="absmiddle" alt="works icon" /> <code>karthik=# public repositories</code></p>
 
 **Selected public repositories** · refreshed every 12 hours via GitHub API
 
@@ -144,7 +144,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-journey.svg" width="20" height="20" align="absmiddle" alt="journey icon" /> <code>-- experience</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-journey.svg" width="20" height="20" align="absmiddle" alt="journey icon" /> <code>karthik=# experience</code></p>
 
 | Period | Role | Organization | Location |
 | :--- | :--- | :--- | :--- |
@@ -158,7 +158,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>-- github achievements</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>karthik=# github achievements</code></p>
 
 <div align="center">
 
@@ -174,7 +174,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>-- certifications & achievements</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-certs.svg" width="20" height="20" align="absmiddle" alt="certs icon" /> <code>karthik=# certifications & achievements</code></p>
 
 | Category | Achievement / Credential |
 | :--- | :--- |
@@ -188,7 +188,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-education.svg" width="20" height="20" align="absmiddle" alt="education icon" /> <code>-- education</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-education.svg" width="20" height="20" align="absmiddle" alt="education icon" /> <code>karthik=# education</code></p>
 
 | Programme | Institution | Specialization | Years |
 | :--- | :--- | :--- | :--- |
@@ -197,7 +197,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>-- analytics</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>karthik=# analytics</code></p>
 
 <div align="center">
 
@@ -212,7 +212,7 @@ career-agents path ai-engineer
 
 ---
 
-<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>-- activity</code></p>
+<p><img src="https://raw.githubusercontent.com/karthikrshet/karthikrshet/main/assets/icon-activity.svg" width="20" height="20" align="absmiddle" alt="activity icon" /> <code>karthik=# activity</code></p>
 
 <!-- CONTRIB_START -->
 <ul>
