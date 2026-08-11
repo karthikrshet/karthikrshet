@@ -118,7 +118,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 31 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 32 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | — | Python | 1 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 1 |
