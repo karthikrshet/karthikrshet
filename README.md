@@ -118,9 +118,9 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | A production-grade, deterministic RAG + agent architecture built with LangChain and LangGraph, applied to a… | Python | 0 |
-| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
+| **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | A production-grade, deterministic RAG + agent architecture built with LangChain and LangGraph, applied to a… | Python | 0 |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 4 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 36 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 1 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 1 |
@@ -219,11 +219,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Aug 18, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 17, 2026</b> &nbsp;Released v2.1.0 on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
   <li><b>Aug 17, 2026</b> &nbsp;Created branch in <b>gp-support-agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/gp-support-agent'>repo</a></li>
   <li><b>Aug 17, 2026</b> &nbsp;Pushed to <code>main</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
   <li><b>Aug 17, 2026</b> &nbsp;Created branch in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
-  <li><b>Aug 17, 2026</b> &nbsp;Pushed to <code>audit-report-v2.1.0</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
