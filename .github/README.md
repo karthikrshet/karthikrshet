@@ -218,9 +218,9 @@ career-agents path ai-engineer
 <ul>
   <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
-  <li><b>Aug 18, 2026</b> &nbsp;Created branch in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
-  <li><b>Aug 18, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
-  <li><b>Aug 18, 2026</b> &nbsp;Released v0.1.0 on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
+  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
+  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
