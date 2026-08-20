@@ -120,20 +120,20 @@ career-agents path ai-engineer
 | :-- | :-- | :-- | --: |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 1 |
-| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 5 |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 6 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | A production-grade, deterministic RAG + agent architecture built with LangChain and LangGraph, applied to a… | Python | 0 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 36 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 1 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 1 |
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 1 |
 | **[auditforge-ai ↗](https://github.com/karthikrshet/auditforge-ai)** | AI-powered website auditing platform analyzing SEO, Performance & AI Visibility. | TypeScript | 1 |
-| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 0 |
-| **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 0 |
+| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 1 |
+| **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 1 |
 | **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 1 |
 | **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 1 |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 2 |
-| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 0 |
-| **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 0 |
+| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 1 |
+| **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 1 |
 | **[forage-midas-JPMorgan ↗](https://github.com/karthikrshet/forage-midas-JPMorgan)** | JPMorgan Chase & Co. Advanced Software Engineering Simulation | Java | 1 |
 | **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 1 |
 | **[payment-gateway ↗](https://payment-gateway-frontend.up.railway.app/landing)** | — | JavaScript | 2 |
@@ -216,11 +216,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
-  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NVIDIA-Agent-Doctor</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NVIDIA-Agent-Doctor'>repo</a></li>
-  <li><b>Aug 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>url-shortener-telegram-bot</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/url-shortener-telegram-bot'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>adintel.ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/adintel.ai'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>coderag</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/coderag'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>LearnOS-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/LearnOS-ai'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>forage-midas</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/forage-midas'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
