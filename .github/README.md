@@ -118,11 +118,12 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
-| **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 1 |
+| **[aiskills ↗](https://github.com/karthikrshet)** | Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding… | Python | 0 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 6 |
+| **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 1 |
+| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | A production-grade, deterministic RAG + agent architecture built with LangChain and LangGraph, applied to a… | Python | 0 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 36 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 38 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 1 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 1 |
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 1 |
@@ -216,11 +217,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>url-shortener-telegram-bot</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/url-shortener-telegram-bot'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>adintel.ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/adintel.ai'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>coderag</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/coderag'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>LearnOS-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/LearnOS-ai'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Starred <b>forage-midas</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/forage-midas'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>codex/fix-codeql-path-boundaries</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Created branch in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
+  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
