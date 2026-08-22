@@ -118,6 +118,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | — | Python | 0 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet)** | Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding… | Python | 0 |
@@ -218,11 +219,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Aug 20, 2026</b> &nbsp;Created branch in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>codex/fix-codeql-path-boundaries</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
-  <li><b>Aug 20, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
+  <li><b>Aug 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
+  <li><b>Aug 21, 2026</b> &nbsp;Created branch in <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
+  <li><b>Aug 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>weblens-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/weblens-ai'>repo</a></li>
+  <li><b>Aug 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
