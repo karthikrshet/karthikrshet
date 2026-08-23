@@ -118,11 +118,11 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[tracegraph-ai ↗](https://tracegraph-ai.vercel.app)** | — | Python | 0 |
+| **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | — | Python | 0 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet)** | Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding… | Python | 0 |
-| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 6 |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform — statistical detection, Unicode steg… | Python | 7 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 1 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | A production-grade, deterministic RAG + agent architecture built with LangChain and LangGraph, applied to a… | Python | 0 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 38 |
@@ -226,8 +226,6 @@ career-agents path ai-engineer
   <li><b>Aug 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
   <li><b>Aug 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
-  <li><b>Aug 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Aug 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
