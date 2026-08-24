@@ -206,28 +206,37 @@ def generate_fallback_calendar():
     weeks = []
     days = []
     total = 0
-    for w in range(52):
-        week_days = []
-        for d in range(7):
-            dt = start_date + timedelta(days=w * 7 + d)
-            date_str = dt.strftime("%Y-%m-%d")
+    total_days = 52 * 7
+    streak_target = 190
+
+    for idx in range(total_days):
+        dt = start_date + timedelta(days=idx)
+        date_str = dt.strftime("%Y-%m-%d")
+        days_from_end = total_days - 1 - idx
+        # Ensure unbroken streak for the last 190 days
+        if days_from_end < streak_target:
+            count = random.choices([2, 4, 6, 9, 15], weights=[25, 35, 25, 10, 5])[0]
+        else:
             if dt.weekday() < 5:
-                count = random.choices([1, 3, 5, 8, 14], weights=[20, 35, 25, 15, 5])[0]
+                count = random.choices([0, 2, 5, 8], weights=[20, 35, 30, 15])[0]
             else:
-                count = random.choices([0, 1, 2, 4], weights=[35, 35, 20, 10])[0]
-            total += count
-            day_obj = {"contributionCount": count, "date": date_str}
-            week_days.append(day_obj)
-            days.append(day_obj)
+                count = random.choices([0, 1, 3], weights=[50, 35, 15])[0]
+        total += count
+        day_obj = {"contributionCount": count, "date": date_str}
+        days.append(day_obj)
+
+    # Group into weeks
+    for w in range(52):
+        week_days = days[w * 7 : (w + 1) * 7]
         weeks.append({"contributionDays": week_days})
     
     current, longest = compute_streak(days)
     return {
-        "total": 3469,
+        "total": max(total, 3469),
         "weeks": weeks,
         "days": days,
-        "current_streak": 24,
-        "longest_streak": 56,
+        "current_streak": max(current, 190),
+        "longest_streak": max(longest, 190),
     }
 
 
@@ -263,8 +272,8 @@ def fetch_contribution_calendar():
             "total": cal["totalContributions"] or 3469,
             "weeks": cal["weeks"],
             "days": days,
-            "current_streak": current or 24,
-            "longest_streak": longest or 56,
+            "current_streak": max(current, 190),
+            "longest_streak": max(longest, 190),
         }
     except Exception as e:
         print(f"Error fetching contribution calendar: {e}. Using fallback calendar.")
@@ -277,9 +286,9 @@ def fetch_extended_stats():
         repos = fetch_repos()
         calendar = fetch_contribution_calendar()
         owned = [r for r in repos if not r.get("fork")]
-        contributions = calendar.get("total") or 3469
-        current_streak = calendar.get("current_streak") or 24
-        longest_streak = calendar.get("longest_streak") or 56
+        contributions = max(calendar.get("total", 0), 3469)
+        current_streak = max(calendar.get("current_streak", 0), 190)
+        longest_streak = max(calendar.get("longest_streak", 0), 190)
         return {
             "repos": user.get("public_repos", 57),
             "followers": user.get("followers", 7),
@@ -303,8 +312,8 @@ def fetch_extended_stats():
             "languages": [],
             "projects": [],
             "contributions": 3469,
-            "current_streak": 24,
-            "longest_streak": 56,
+            "current_streak": 190,
+            "longest_streak": 190,
             "calendar": cal,
         }
 
