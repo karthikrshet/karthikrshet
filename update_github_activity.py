@@ -281,10 +281,10 @@ def fetch_extended_stats():
         current_streak = calendar.get("current_streak") or 24
         longest_streak = calendar.get("longest_streak") or 56
         return {
-            "repos": user.get("public_repos", 24),
-            "followers": user.get("followers", 5),
+            "repos": user.get("public_repos", 57),
+            "followers": user.get("followers", 7),
             "following": user.get("following", 0),
-            "stars": sum(r.get("stargazers_count", 0) for r in repos) or 41,
+            "stars": sum(r.get("stargazers_count", 0) for r in repos) or 95,
             "languages": top_languages(repos),
             "projects": owned,
             "contributions": contributions,
@@ -296,10 +296,10 @@ def fetch_extended_stats():
         print(f"Error fetching stats: {e}")
         cal = generate_fallback_calendar()
         return {
-            "repos": 24,
-            "followers": 5,
+            "repos": 57,
+            "followers": 7,
             "following": 0,
-            "stars": 41,
+            "stars": 95,
             "languages": [],
             "projects": [],
             "contributions": 3469,
@@ -567,7 +567,11 @@ def build_heatmap_card(calendar):
 
 
 PROJECT_BLURBS = {
-    "Career-Agents": "The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server.",
+    "Career-Agents": "The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 Languages) & MCP Server.",
+    "ClaudeMark": "Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography).",
+    "aiskills": "Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents.",
+    "NVIDIA-Agent-Doctor": "NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI.",
+    "tracegraph-ai": "AI-powered trace graph analysis & telemetry diagnostics for LLM architectures.",
     "CareerByte-AI": "Open-source AI Career Copilot for job discovery, ATS optimization & interview prep.",
     "adintel.ai": "AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok).",
     "GPU-Insight-AI": "Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI.",
@@ -576,6 +580,8 @@ PROJECT_BLURBS = {
     "coderag": "Production-ready RAG for codebases using AST parsing, hybrid search & LLMs.",
     "kestrel": "Open-source autonomous software engineering platform & multi-agent orchestrator.",
     "jobpilot-ai": "Personal AI job copilot discovering jobs, ranking match scores & generating applications.",
+    "kaegis-ai": "The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applications.",
+    "gp-support-agent": "Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph.",
     "open-ai-portfolio": "Open-source AI Engineer portfolio template with project case studies & terminal UI.",
     "Karthik-LeetCode-Solutions": "Optimized Java solutions to LeetCode coding challenges with detailed problem explanations.",
     "url-shortener-telegram-bot": "Telegram URL Shortener Bot with click tracking and analytics.",
@@ -585,6 +591,10 @@ PROJECT_BLURBS = {
 
 PROJECT_LINKS = {
     "Career-Agents": "https://github.com/karthikrshet/Career-Agents",
+    "ClaudeMark": "https://github.com/karthikrshet/ClaudeMark",
+    "aiskills": "https://github.com/karthikrshet/aiskills",
+    "NVIDIA-Agent-Doctor": "https://github.com/karthikrshet/NVIDIA-Agent-Doctor",
+    "tracegraph-ai": "https://github.com/karthikrshet/tracegraph-ai",
     "CareerByte-AI": "https://github.com/karthikrshet/CareerByte-AI",
     "adintel.ai": "https://github.com/karthikrshet/adintel.ai",
     "GPU-Insight-AI": "https://github.com/karthikrshet/GPU-Insight-AI",
@@ -593,6 +603,8 @@ PROJECT_LINKS = {
     "coderag": "https://github.com/karthikrshet/coderag",
     "kestrel": "https://github.com/karthikrshet/kestrel",
     "jobpilot-ai": "https://github.com/karthikrshet/jobpilot-ai",
+    "kaegis-ai": "https://github.com/karthikrshet/kaegis-ai",
+    "gp-support-agent": "https://github.com/karthikrshet/gp-support-agent",
     "open-ai-portfolio": "https://github.com/karthikrshet/open-ai-portfolio",
     "Karthik-LeetCode-Solutions": "https://github.com/karthikrshet/Karthik-LeetCode-Solutions",
 }

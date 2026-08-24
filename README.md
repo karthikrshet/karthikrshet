@@ -42,7 +42,7 @@
 
 > **Software Engineer, AI Engineer & Founder** with hands-on experience designing, building, and deploying production-grade AI applications, Large Language Model (LLM) workflows, Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, and Model Context Protocol (MCP) servers. Experienced in developing scalable backend microservices using **TypeScript, Python, Next.js, Node.js, PostgreSQL, Redis, and Docker**.
 >
-> Founder of **CodeMyFYP** and maintainer of **Career-Agents**, an open-source AI career operating system with 146+ specialized agents. Strong CS fundamentals backed by **284 solved problems on LeetCode with a 97.8% acceptance rate**.
+> Founder of **CodeMyFYP** and maintainer of **Career-Agents**, an open-source AI career operating system with 167+ specialized AI agents across 19 divisions, Spoken Voice Lab (27 languages), and production MCP server. Strong CS fundamentals backed by **339 solved problems on LeetCode with a 93.13% acceptance rate**.
 
 ---
 
@@ -73,9 +73,10 @@ Career-Agents is an open-source AI platform, global CLI, and Model Context Proto
 
 | Feature | Details |
 | :--- | :--- |
-| **Specialized Agents** | 146+ AI agents across 19 functional divisions |
+| **Specialized Agents** | 167+ AI agents across 19 functional divisions |
+| **Voice & Multimodal** | Spoken Voice Lab (27 Languages) & Career Knowledge Graph |
 | **MCP Integration** | Production MCP server for Claude Desktop, Cursor, and Windsurf |
-| **Resume Intelligence** | ATS Resume Studio with scoring engine and job match intelligence |
+| **Resume & Interview** | ATS Resume Studio, FAANG Interview Tracks & GitHub Portfolio Auditor |
 | **Deployment** | Global CLI published on NPM (`npm install -g career-agents`) |
 
 ```bash
@@ -99,7 +100,11 @@ career-agents path ai-engineer
 
 | Project | Description | Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | Open-source Career Operating System with 146+ AI Agents, MCP server & CLI | Next.js · TypeScript · Python · MCP · OpenAI | [GitHub ↗](https://github.com/karthikrshet/Career-Agents) |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | Open-source Career OS with 167+ AI Agents, Spoken Voice Lab (27 langs), MCP server & CLI | Next.js · TypeScript · Python · MCP · OpenAI | [GitHub ↗](https://github.com/karthikrshet/Career-Agents) |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source AI watermark & provenance forensics platform (C2PA, steganography, SARIF) | Python · Steganography · Security · C2PA | [GitHub ↗](https://github.com/karthikrshet/ClaudeMark) |
+| **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures | Python · Tracing · Graph Analytics | [GitHub ↗](https://github.com/karthikrshet/tracegraph-ai) |
+| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable AI engineering skills, workflows, and evaluation playbooks for coding agents | Python · DevTools · AI Agents · RAG | [GitHub ↗](https://github.com/karthikrshet/aiskills) |
+| **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility & benchmarking CLI | Python · CUDA · GPU · Deep Learning · MCP | [GitHub ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor) |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | AI-powered career copilot for job discovery, ATS optimization & interview prep | Next.js · TypeScript · PostgreSQL · Prisma · Gemini | [GitHub ↗](https://github.com/karthikrshet/CareerByte-AI) |
 | **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI campaign intelligence platform for media buyers (Meta, Google, TikTok) | Next.js · TypeScript · PostgreSQL · OpenAI | [GitHub ↗](https://github.com/karthikrshet/adintel.ai) |
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Android GPU monitoring & AI diagnostics platform with real-time hardware telemetry | Kotlin · Jetpack Compose · Gemini AI · Room | [GitHub ↗](https://github.com/karthikrshet/GPU-Insight-AI) |
@@ -118,28 +123,34 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open Source Career Operating System. 146+ AI Agents, Resume Intelligence & MCP Server. | TypeScript | 11 |
-| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 1 |
-| **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 1 |
-| **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 1 |
-| **[auditforge-ai ↗](https://github.com/karthikrshet/auditforge-ai)** | AI-powered website auditing platform analyzing SEO, Performance & AI Visibility. | TypeScript | 1 |
-| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 0 |
-| **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 0 |
-| **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 1 |
-| **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 1 |
-| **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 2 |
-| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 0 |
-| **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 0 |
-| **[forage-midas-JPMorgan ↗](https://github.com/karthikrshet/forage-midas-JPMorgan)** | JPMorgan Chase & Co. Advanced Software Engineering Simulation | Java | 1 |
-| **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 1 |
-| **[payment-gateway ↗](https://payment-gateway-frontend.up.railway.app/landing)** | — | JavaScript | 2 |
-| **[portfolio ↗](https://karthikrshet.github.io/portfolio/)** | Karthik Rajesh Shet Portfolio | HTML | 2 |
-| **[student-result-management-system ↗](https://github.com/karthikrshet/student-result-management-system)** | Web-based result management platform for schools and colleges. | PHP | 3 |
-| **[Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration ↗](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)** | Multi-utility productivity portal with real-time usage tracking & AI. | JavaScript | 2 |
-| **[ConvertX-All-in-One-Converter ↗](https://karthikrshet.github.io/ConvertX-All-in-One-Converter/)** | ConvertX is a modern, responsive unit & currency converter built with HTML, CSS, and JavaScript. It support… | CSS | 2 |
-| **[Play-With-Code ↗](https://karthikrshet.github.io/Play-With-Code/)** | Play-With-Code is a lightweight, browser-based coding platform designed to help users write, test, and inte… | HTML | 2 |
-| **[Weather ↗](https://karthikrshet.github.io/Weather/)** | online Weather Dashboard | JavaScript | 2 |
-| **[Gaming-hub ↗](https://karthikrshet.github.io/Gaming-hub/)** | offline gaming platform | HTML | 2 |
+| **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
+| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 39 |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 7 |
+| **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
+| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 3 |
+| **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
+| **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 2 |
+| **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 3 |
+| **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 3 |
+| **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 3 |
+| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 3 |
+| **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 3 |
+| **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 3 |
+| **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 3 |
+| **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 3 |
+| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 3 |
+| **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 3 |
+| **[forage-midas-JPMorgan ↗](https://github.com/karthikrshet/forage-midas-JPMorgan)** | JPMorgan Chase & Co. Advanced Software Engineering Simulation | Java | 3 |
+| **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 3 |
+| **[payment-gateway ↗](https://payment-gateway-frontend.up.railway.app/landing)** | — | JavaScript | 3 |
+| **[portfolio ↗](https://karthikrshet.github.io/portfolio/)** | Karthik Rajesh Shet Portfolio | HTML | 4 |
+| **[student-result-management-system ↗](https://github.com/karthikrshet/student-result-management-system)** | Web-based result management platform for schools and colleges. | PHP | 5 |
+| **[Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration ↗](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)** | Multi-utility productivity portal with real-time usage tracking & AI. | JavaScript | 4 |
+| **[ConvertX-All-in-One-Converter ↗](https://karthikrshet.github.io/ConvertX-All-in-One-Converter/)** | ConvertX is a modern, responsive unit & currency converter built with HTML, CSS, and JavaScript. It support… | CSS | 4 |
+| **[Play-With-Code ↗](https://karthikrshet.github.io/Play-With-Code/)** | Play-With-Code is a lightweight, browser-based coding platform designed to help users write, test, and inte… | HTML | 4 |
+| **[Weather ↗](https://karthikrshet.github.io/Weather/)** | online Weather Dashboard | JavaScript | 4 |
+| **[Gaming-hub ↗](https://karthikrshet.github.io/Gaming-hub/)** | offline gaming platform | HTML | 4 |
 <!-- PROJECTS_END -->
 
 ---
@@ -178,9 +189,9 @@ career-agents path ai-engineer
 
 | Category | Achievement / Credential |
 | :--- | :--- |
-| **Competitive Programming** | 284+ problems solved on LeetCode with 97.8% acceptance rate |
+| **Competitive Programming** | 339+ problems solved on LeetCode (98 Easy, 176 Med, 65 Hard) with 93.13% acceptance rate |
 | **Coding Contests** | 6-time winner & 3-time runner-up in Sadhana Coding Contests |
-| **Open Source** | Maintainer of `career-agents` npm package (3,354+ GitHub contributions across 54 repos) |
+| **Open Source** | Maintainer of `career-agents` npm package (3,400+ GitHub contributions across 57 repos) |
 | **Government Credibility** | CodeMyFYP Academy is officially listed on the AICTE National Internship Portal |
 | **Industry Simulations** | Walmart Global Tech Software Engineering Simulation (2026) |
 | **Industry Simulations** | JPMorgan Chase & Co. Software Engineering Simulation (2026) |
@@ -216,11 +227,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Aug 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Starred <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Aug 15, 2026</b> &nbsp;Closed pull request #6 in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
