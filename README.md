@@ -123,10 +123,10 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 7 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 39 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 39 |
-| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 7 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 3 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
@@ -227,11 +227,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Aug 24, 2026</b> &nbsp;Starred <b>tracegraph-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/tracegraph-ai'>repo</a></li>
-  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Aug 15, 2026</b> &nbsp;Closed pull request #6 in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Merged pull request #35 in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
+  <li><b>Aug 24, 2026</b> &nbsp;Opened pull request #35 in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
