@@ -130,7 +130,7 @@ career-agents path ai-engineer
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 3 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
-| **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 2 |
+| **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 3 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 3 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 3 |
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 3 |
@@ -224,10 +224,10 @@ career-agents path ai-engineer
 <!-- CONTRIB_START -->
 <ul>
   <li><b>Aug 26, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Aug 27, 2026</b> &nbsp;Starred <b>gp-support-agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/gp-support-agent'>repo</a></li>
+  <li><b>Aug 26, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Aug 25, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>karthikrshet</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/karthikrshet'>repo</a></li>
-  <li><b>Aug 24, 2026</b> &nbsp;Merged pull request #35 in <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
-  <li><b>Aug 24, 2026</b> &nbsp;Pushed to <code>main</code> on <b>ClaudeMark</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/ClaudeMark'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
