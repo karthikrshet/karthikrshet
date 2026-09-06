@@ -129,7 +129,7 @@ career-agents path ai-engineer
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 9 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
-| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 3 |
+| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 3 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 3 |
@@ -224,11 +224,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
+  <li><b>Sep 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
   <li><b>Sep 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
-  <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
-  <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
-  <li><b>Sep 03, 2026</b> &nbsp;Pushed to <code>fix/v0.2.1-beta-integrity</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
