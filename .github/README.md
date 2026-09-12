@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 1 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
@@ -137,7 +138,6 @@ career-agents path ai-engineer
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 3 |
 | **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 3 |
 | **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 3 |
-| **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 3 |
 | **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 3 |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 3 |
 | **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 3 |
@@ -224,7 +224,7 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Sep 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Sep 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Sep 08, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
   <li><b>Sep 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Sep 07, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
