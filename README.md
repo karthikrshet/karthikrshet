@@ -123,7 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 45 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 46 |
 | **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 1 |
 | **[OpenUPI ↗](https://github.com/karthikrshet/OpenUPI)** | — | — | 0 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 1 |
