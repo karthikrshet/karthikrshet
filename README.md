@@ -123,12 +123,12 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 47 |
 | **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 1 |
 | **[OpenUPI ↗](https://github.com/karthikrshet/OpenUPI)** | — | — | 0 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 1 |
 | **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 3 |
-| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
@@ -230,11 +230,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Sep 23, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
   <li><b>Sep 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Sep 21, 2026</b> &nbsp;Pushed to <code>main</code> on <b>worldmap-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/worldmap-ai'>repo</a></li>
   <li><b>Sep 17, 2026</b> &nbsp;Created branch in <b>OpenUPI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/OpenUPI'>repo</a></li>
   <li><b>Sep 17, 2026</b> &nbsp;Pushed to <code>main</code> on <b>OpenUPI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/OpenUPI'>repo</a></li>
-  <li><b>Sep 14, 2026</b> &nbsp;Created branch in <b>worldmap-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/worldmap-ai'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
