@@ -123,12 +123,12 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | — | TypeScript | 0 |
-| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 2 |
+| **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | — | Python | 0 |
+| **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 53 |
-| **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 1 |
-| **[OpenUPI ↗](https://github.com/karthikrshet/OpenUPI)** | — | — | 0 |
-| **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 1 |
+| **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | — | TypeScript | 3 |
+| **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 3 |
+| **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
 | **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 3 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
@@ -231,11 +231,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Sep 26, 2026</b> &nbsp;Pushed to <code>master</code> on <b>runbook-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/runbook-ai'>repo</a></li>
-  <li><b>Sep 26, 2026</b> &nbsp;Pushed to <code>feat/trueforge-write-guard</code> on <b>runbook-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/runbook-ai'>repo</a></li>
-  <li><b>Sep 26, 2026</b> &nbsp;Pushed to <code>master</code> on <b>runbook-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/runbook-ai'>repo</a></li>
-  <li><b>Sep 26, 2026</b> &nbsp;Merged pull request #3 in <b>runbook-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/runbook-ai'>repo</a></li>
-  <li><b>Sep 26, 2026</b> &nbsp;Pushed to <code>master</code> on <b>runbook-ai</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/runbook-ai'>repo</a></li>
+  <li><b>Sep 27, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
+  <li><b>Sep 27, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Karthik-LeetCode-Solutions</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Karthik-LeetCode-Solutions'>repo</a></li>
+  <li><b>Sep 27, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
+  <li><b>Sep 27, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Sep 27, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
