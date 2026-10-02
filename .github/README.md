@@ -123,9 +123,9 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 60 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 1 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 59 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | RunbookAI converts operational runbooks into evidence-gated agent workflows. Core idea: "The model proposes… | TypeScript | 3 |
 | **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 3 |
@@ -227,11 +227,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Oct 01, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Oct 01, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Oct 01, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Sep 29, 2026</b> &nbsp;Pushed to <code>main</code> on <b>agent-reliability</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/agent-reliability'>repo</a></li>
-  <li><b>Sep 28, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Oct 02, 2026</b> &nbsp;Pushed to <code>fix/jd-matcher-cxx-csharp-regex</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/Satya0810/Career-Agents'>repo</a></li>
+  <li><b>Oct 02, 2026</b> &nbsp;Closed issue in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Oct 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Oct 02, 2026</b> &nbsp;Closed issue in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Oct 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
