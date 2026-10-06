@@ -125,7 +125,7 @@ career-agents path ai-engineer
 | :-- | :-- | :-- | --: |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 60 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 59 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | RunbookAI converts operational runbooks into evidence-gated agent workflows. Core idea: "The model proposes… | TypeScript | 3 |
@@ -231,11 +231,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
+  <li><b>Oct 05, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
+  <li><b>Oct 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
