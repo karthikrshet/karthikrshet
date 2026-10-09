@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[wedding-invitation ↗](https://wedding-invitation-black-zeta.vercel.app)** | — | TypeScript | 0 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 61 |
