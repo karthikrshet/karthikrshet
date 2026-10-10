@@ -123,7 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[wedding-invitation ↗](https://wedding-invitation-black-zeta.vercel.app)** | — | TypeScript | 0 |
+| **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 1 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 61 |
@@ -150,7 +150,7 @@ career-agents path ai-engineer
 | **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 3 |
 | **[payment-gateway ↗](https://payment-gateway-frontend.up.railway.app/landing)** | — | JavaScript | 3 |
 | **[portfolio ↗](https://karthikrshet.github.io/portfolio/)** | Karthik Rajesh Shet Portfolio | HTML | 4 |
-| **[student-result-management-system ↗](https://github.com/karthikrshet/student-result-management-system)** | Web-based result management platform for schools and colleges. | PHP | 5 |
+| **[student-result-management-system ↗](https://github.com/karthikrshet/student-result-management-system)** | Web-based result management platform for schools and colleges. | PHP | 6 |
 | **[Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration ↗](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)** | Multi-utility productivity portal with real-time usage tracking & AI. | JavaScript | 4 |
 | **[ConvertX-All-in-One-Converter ↗](https://karthikrshet.github.io/ConvertX-All-in-One-Converter/)** | ConvertX is a modern, responsive unit & currency converter built with HTML, CSS, and JavaScript. It support… | CSS | 4 |
 | **[Play-With-Code ↗](https://karthikrshet.github.io/Play-With-Code/)** | Play-With-Code is a lightweight, browser-based coding platform designed to help users write, test, and inte… | HTML | 4 |
@@ -232,11 +232,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Oct 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
+  <li><b>Oct 09, 2026</b> &nbsp;Starred <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
   <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Oct 05, 2026</b> &nbsp;Pushed to <code>master</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
-  <li><b>Oct 05, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
