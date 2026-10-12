@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 0 |
 | **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 1 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
@@ -232,11 +233,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Oct 11, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
+  <li><b>Oct 11, 2026</b> &nbsp;Created branch in <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
   <li><b>Oct 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
   <li><b>Oct 09, 2026</b> &nbsp;Created branch in <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
   <li><b>Oct 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
-  <li><b>Oct 09, 2026</b> &nbsp;Starred <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
-  <li><b>Oct 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>InvarPay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/InvarPay'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
