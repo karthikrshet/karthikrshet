@@ -124,7 +124,7 @@ career-agents path ai-engineer
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
-| **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 1 |
+| **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 2 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 62 |
 | **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 3 |
 | **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 3 |
@@ -231,10 +231,10 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Oct 16, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
+  <li><b>Oct 16, 2026</b> &nbsp;Created branch in <b>symbolic-neural-risk-platform</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/symbolic-neural-risk-platform'>repo</a></li>
   <li><b>Oct 16, 2026</b> &nbsp;Starred <b>symbolic-neural-risk-platform</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/symbolic-neural-risk-platform'>repo</a></li>
   <li><b>Oct 16, 2026</b> &nbsp;Starred <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
-  <li><b>Oct 11, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
-  <li><b>Oct 12, 2026</b> &nbsp;Starred <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
   <li><b>Oct 11, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
