@@ -123,11 +123,13 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
+| **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 1 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 62 |
 | **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 3 |
 | **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 3 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 3 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 62 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | RunbookAI converts operational runbooks into evidence-gated agent workflows. Core idea: "The model proposes… | TypeScript | 3 |
@@ -233,11 +235,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Oct 16, 2026</b> &nbsp;Starred <b>symbolic-neural-risk-platform</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/symbolic-neural-risk-platform'>repo</a></li>
+  <li><b>Oct 16, 2026</b> &nbsp;Starred <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
   <li><b>Oct 11, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
   <li><b>Oct 12, 2026</b> &nbsp;Starred <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
   <li><b>Oct 11, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
-  <li><b>Oct 11, 2026</b> &nbsp;Created branch in <b>Paylane-Support-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Paylane-Support-Agent'>repo</a></li>
-  <li><b>Oct 09, 2026</b> &nbsp;Pushed to <code>main</code> on <b>wedding-invitation</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/wedding-invitation'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
