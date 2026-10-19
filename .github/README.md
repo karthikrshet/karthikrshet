@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 2 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 62 |
@@ -147,11 +148,10 @@ career-agents path ai-engineer
 | **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 3 |
 | **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 3 |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 3 |
-| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 3 |
+| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 4 |
 | **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 3 |
 | **[forage-midas-JPMorgan ↗](https://github.com/karthikrshet/forage-midas-JPMorgan)** | JPMorgan Chase & Co. Advanced Software Engineering Simulation | Java | 3 |
 | **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 3 |
-| **[payment-gateway ↗](https://payment-gateway-frontend.up.railway.app/landing)** | — | JavaScript | 3 |
 | **[portfolio ↗](https://karthikrshet.github.io/portfolio/)** | Karthik Rajesh Shet Portfolio | HTML | 4 |
 | **[student-result-management-system ↗](https://github.com/karthikrshet/student-result-management-system)** | Web-based result management platform for schools and colleges. | PHP | 6 |
 | **[Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration ↗](https://github.com/karthikrshet/Nexora-A-Multi-Utility-Web-Portal-with-Real-Time-Usage-Tracking-and-AI-Integration)** | Multi-utility productivity portal with real-time usage tracking & AI. | JavaScript | 4 |
