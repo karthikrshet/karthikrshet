@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[localpay ↗](https://karthikrshet.github.io/localpay/)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 0 |
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 2 |
