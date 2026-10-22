@@ -123,7 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[localpay ↗](https://karthikrshet.github.io/localpay/)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 1 |
+| **[localpay ↗](https://github.com/karthikrshet/localpay)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 2 |
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 2 |
@@ -236,11 +236,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Oct 19, 2026</b> &nbsp;Pushed to <code>main</code> on <b>localpay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/localpay'>repo</a></li>
+  <li><b>Oct 22, 2026</b> &nbsp;Released v0.1.0 on <b>localpay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/localpay'>repo</a></li>
+  <li><b>Oct 22, 2026</b> &nbsp;Pushed to <code>main</code> on <b>localpay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/localpay'>repo</a></li>
   <li><b>Oct 20, 2026</b> &nbsp;Starred <b>localpay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/localpay'>repo</a></li>
   <li><b>Oct 18, 2026</b> &nbsp;Pushed to <code>main</code> on <b>payment-gateway</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/payment-gateway'>repo</a></li>
   <li><b>Oct 16, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Oct 16, 2026</b> &nbsp;Created branch in <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
