@@ -123,12 +123,13 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
+| **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 68 |
 | **[localpay ↗](https://github.com/karthikrshet/localpay)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 2 |
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
-| **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 1 |
-| **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 2 |
+| **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 3 |
 | **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 3 |
 | **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 3 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 3 |
@@ -138,7 +139,6 @@ career-agents path ai-engineer
 | **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 3 |
 | **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 5 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
-| **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
 | **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 3 |
