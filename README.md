@@ -124,7 +124,7 @@ career-agents path ai-engineer
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
 | **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | — | Python | 0 |
-| **[NeuroSymbolic-AI ↗](https://github.com/karthikrshet/NeuroSymbolic-AI)** | A hybrid neuro-symbolic multi-agent platform combining calibrated machine learning models, deterministic fo… | Python | 1 |
+| **[NeuroSymbolic-AI ↗](https://github.com/karthikrshet/NeuroSymbolic-AI)** | A hybrid neuro-symbolic multi-agent platform combining calibrated machine learning models, deterministic fo… | Python | 2 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 68 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
