@@ -234,11 +234,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Oct 31, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
+  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>master</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Starred <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Closed issue in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
   <li><b>Oct 23, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Oct 23, 2026</b> &nbsp;Closed issue in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Oct 22, 2026</b> &nbsp;Released v0.1.0 on <b>localpay</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/localpay'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
