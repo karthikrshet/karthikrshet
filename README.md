@@ -123,7 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | — | Python | 0 |
+| **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | — | Python | 1 |
 | **[NeuroSymbolic-AI ↗](https://github.com/karthikrshet/NeuroSymbolic-AI)** | A hybrid neuro-symbolic multi-agent platform combining calibrated machine learning models, deterministic fo… | Python | 2 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 68 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
@@ -238,11 +238,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 03, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
+  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
+  <li><b>Nov 03, 2026</b> &nbsp;Starred <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
   <li><b>Oct 31, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Robust-Learning</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Robust-Learning'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>master</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Starred <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Closed issue in <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
-  <li><b>Oct 23, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Career-Agents</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Career-Agents'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
