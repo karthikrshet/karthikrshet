@@ -234,11 +234,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Created branch in <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
   <li><b>Nov 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Created branch in <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
+  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>master</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
+  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
+  <li><b>Nov 02, 2026</b> &nbsp;Created branch in <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
