@@ -123,11 +123,12 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support ↗](https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support)** | A multi-domain, multi-agent neuro-symbolic decision-support platform. Ask a question in plain language, the… | Python | 1 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
 | **[NeuroSymbolic-AI ↗](https://github.com/karthikrshet/NeuroSymbolic-AI)** | A hybrid neuro-symbolic multi-agent platform combining calibrated machine learning models, deterministic fo… | Python | 2 |
 | **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | A chat agent that arranges home-service errands (plumber, electrician, AC servicing, cleaning) against a mo… | Python | 1 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 68 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 67 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[localpay ↗](https://github.com/karthikrshet/localpay)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 2 |
@@ -234,11 +235,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 07, 2026</b> &nbsp;Starred <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
+  <li><b>Nov 07, 2026</b> &nbsp;Starred <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
   <li><b>Nov 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
   <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>master</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Created branch in <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
