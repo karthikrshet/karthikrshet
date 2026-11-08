@@ -239,11 +239,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 07, 2026</b> &nbsp;Pushed to <code>main</code> on <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
+  <li><b>Nov 07, 2026</b> &nbsp;Created branch in <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Starred <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Starred <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
   <li><b>Nov 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>main</code> on <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
-  <li><b>Nov 02, 2026</b> &nbsp;Pushed to <code>master</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
