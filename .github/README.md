@@ -152,7 +152,7 @@ career-agents path ai-engineer
 | **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 3 |
 | **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 4 |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 4 |
-| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 5 |
+| **[adintel.ai ↗](https://github.com/karthikrshet/adintel.ai)** | AI-powered campaign intelligence platform for media buyers (Meta, Google, TikTok). | TypeScript | 6 |
 | **[url-shortener-telegram-bot ↗](https://github.com/karthikrshet/url-shortener-telegram-bot)** | Telegram URL Shortener Bot with click tracking and analytics. | Python | 3 |
 | **[forage-midas-JPMorgan ↗](https://github.com/karthikrshet/forage-midas-JPMorgan)** | JPMorgan Chase & Co. Advanced Software Engineering Simulation | Java | 3 |
 | **[backend-engineer-portfolio ↗](https://karthikrshet.github.io/backend-engineer-portfolio/)** | — | HTML | 3 |
