@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[aegisheal ↗](https://github.com/karthikrshet/aegisheal)** | Agentic AI self-healing platform that monitors services, detects failures, finds the root cause with an AI… | JavaScript | 1 |
 | **[A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support ↗](https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support)** | A multi-domain, multi-agent neuro-symbolic decision-support platform. Ask a question in plain language, the… | Python | 1 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
@@ -239,11 +240,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 10, 2026</b> &nbsp;Starred <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Pushed to <code>main</code> on <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Created branch in <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Starred <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Starred <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
-  <li><b>Nov 04, 2026</b> &nbsp;Pushed to <code>main</code> on <b>NeuroSymbolic-AI</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/NeuroSymbolic-AI'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
