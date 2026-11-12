@@ -136,7 +136,7 @@ career-agents path ai-engineer
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 3 |
 | **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 3 |
-| **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 3 |
+| **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 4 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | RunbookAI converts operational runbooks into evidence-gated agent workflows. Core idea: "The model proposes… | TypeScript | 3 |
@@ -240,11 +240,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
+  <li><b>Nov 10, 2026</b> &nbsp;Created branch in <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
+  <li><b>Nov 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 10, 2026</b> &nbsp;Starred <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 07, 2026</b> &nbsp;Pushed to <code>main</code> on <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
-  <li><b>Nov 07, 2026</b> &nbsp;Created branch in <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
-  <li><b>Nov 07, 2026</b> &nbsp;Starred <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
-  <li><b>Nov 07, 2026</b> &nbsp;Starred <b>Errand-Agent</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/Errand-Agent'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
