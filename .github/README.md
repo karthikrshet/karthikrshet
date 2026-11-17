@@ -129,7 +129,7 @@ career-agents path ai-engineer
 | **[agent-reliability ↗](https://github.com/karthikrshet/agent-reliability)** | Open-source reliability engineering platform for tool-using AI agents. Run stateful evaluations, determinis… | Python | 3 |
 | **[NeuroSymbolic-AI ↗](https://github.com/karthikrshet/NeuroSymbolic-AI)** | A hybrid neuro-symbolic multi-agent platform combining calibrated machine learning models, deterministic fo… | Python | 2 |
 | **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | A chat agent that arranges home-service errands (plumber, electrician, AC servicing, cleaning) against a mo… | Python | 1 |
-| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 68 |
+| **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 69 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[localpay ↗](https://github.com/karthikrshet/localpay)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 2 |
