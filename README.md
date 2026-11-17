@@ -136,7 +136,7 @@ career-agents path ai-engineer
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 3 |
 | **[Paylane-Support-Agent ↗](https://github.com/karthikrshet/Paylane-Support-Agent)** | A chat support agent for Paylane that handles refunds, verification, frozen cards and escalations per polic… | Python | 3 |
-| **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 4 |
+| **[wedding-invitation ↗](https://madeeha-ameenuddin.vercel.app)** | A premium, cinematic digital wedding invitation featuring elegant Islamic design, royal palace doors, golde… | TypeScript | 5 |
 | **[InvarPay ↗](https://github.com/karthikrshet/InvarPay)** | AI-native payment orchestration & reconciliation platform modeled on high-concurrency payment gateway archi… | Python | 3 |
 | **[Karthik-LeetCode-Solutions ↗](https://github.com/karthikrshet/Karthik-LeetCode-Solutions)** | Optimized Java solutions to LeetCode coding challenges with detailed problem explanations. | Java | 3 |
 | **[runbook-ai ↗](https://github.com/karthikrshet/runbook-ai)** | RunbookAI converts operational runbooks into evidence-gated agent workflows. Core idea: "The model proposes… | TypeScript | 3 |
