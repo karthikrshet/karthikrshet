@@ -149,7 +149,7 @@ career-agents path ai-engineer
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 3 |
 | **[open-ai-portfolio ↗](https://github.com/karthikrshet/open-ai-portfolio)** | Open-source AI Engineer portfolio template with project case studies & terminal UI. | TypeScript | 3 |
 | **[GPU-Insight-AI ↗](https://github.com/karthikrshet/GPU-Insight-AI)** | Open-source Android GPU monitoring & AI diagnostics platform built with Kotlin & Gemini AI. | Kotlin | 3 |
-| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 4 |
+| **[LearnOS-ai ↗](https://github.com/karthikrshet/LearnOS-ai)** | AI-powered Learning OS generating personalized roadmaps, projects & AI workspaces. | TypeScript | 5 |
 | **[coderag ↗](https://github.com/karthikrshet/coderag)** | Production-ready RAG for codebases using AST parsing, hybrid search & LLMs. | Python | 3 |
 | **[jobpilot-ai ↗](https://github.com/karthikrshet/jobpilot-ai)** | Personal AI job copilot discovering jobs, ranking match scores & generating applications. | TypeScript | 4 |
 | **[CareerByte-AI ↗](https://github.com/karthikrshet/CareerByte-AI)** | Open-source AI Career Copilot for job discovery, ATS optimization & interview prep. | TypeScript | 4 |
