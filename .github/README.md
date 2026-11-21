@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[trailcut ↗](https://github.com/karthikrshet/trailcut)** | — | — | 0 |
 | **[aegisheal ↗](https://github.com/karthikrshet/aegisheal)** | Agentic AI self-healing platform that monitors services, detects failures, finds the root cause with an AI… | JavaScript | 1 |
 | **[A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support ↗](https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support)** | A multi-domain, multi-agent neuro-symbolic decision-support platform. Ask a question in plain language, the… | Python | 1 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
