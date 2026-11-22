@@ -123,7 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
-| **[trailcut ↗](https://github.com/karthikrshet/trailcut)** | — | — | 0 |
+| **[trailcut ↗](https://github.com/karthikrshet/trailcut)** | — | Python | 0 |
 | **[aegisheal ↗](https://github.com/karthikrshet/aegisheal)** | Agentic AI self-healing platform that monitors services, detects failures, finds the root cause with an AI… | JavaScript | 1 |
 | **[A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support ↗](https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support)** | A multi-domain, multi-agent neuro-symbolic decision-support platform. Ask a question in plain language, the… | Python | 1 |
 | **[Robust-Learning ↗](https://github.com/karthikrshet/Robust-Learning)** | upervised machine learning algorithms rely critically on high-quality annotated data. In practical applicat… | TypeScript | 2 |
@@ -241,11 +241,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 22, 2026</b> &nbsp;Created branch in <b>trailcut</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/trailcut'>repo</a></li>
   <li><b>Nov 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 10, 2026</b> &nbsp;Created branch in <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
   <li><b>Nov 10, 2026</b> &nbsp;Starred <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
-  <li><b>Nov 07, 2026</b> &nbsp;Pushed to <code>main</code> on <b>A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
