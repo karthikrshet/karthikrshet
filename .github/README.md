@@ -144,7 +144,7 @@ career-agents path ai-engineer
 | **[worldmap-ai ↗](https://github.com/karthikrshet/worldmap-ai)** | WorldMap AI is an open-source geospatial + AI platform for exploring map projections, comparing real geogra… | TypeScript | 3 |
 | **[kestrel ↗](https://github.com/karthikrshet/kestrel)** | Open-source autonomous software engineering platform & multi-agent orchestrator. | TypeScript | 5 |
 | **[tracegraph-ai ↗](https://github.com/karthikrshet/tracegraph-ai)** | AI-powered trace graph analysis & telemetry diagnostics for LLM architectures. | Python | 3 |
-| **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | — | Python | 3 |
+| **[weblens-ai ↗](https://weblens-ai-two.vercel.app)** | An Agentic Website Intelligence & Exploration System | Python | 3 |
 | **[NVIDIA-Agent-Doctor ↗](https://github.com/karthikrshet/NVIDIA-Agent-Doctor)** | NVIDIA AI environment diagnostics, security, compatibility, and benchmarking CLI. | Python | 3 |
 | **[gp-support-agent ↗](https://github.com/karthikrshet/gp-support-agent)** | Production-grade, deterministic RAG + agent architecture built with LangChain & LangGraph. | Python | 3 |
 | **[kaegis-ai ↗](https://github.com/karthikrshet/kaegis-ai)** | The Open Enterprise AI Operating System for Building, Deploying, Governing & Scaling Enterprise AI Applicat… | Python | 3 |
