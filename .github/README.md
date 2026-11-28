@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[x-agent-kit ↗](https://github.com/karthikrshet/x-agent-kit#readme)** | X agents & X (Twitter) automation for builders: AI growth team with daily autopilot, 13 skills, 8 agents an… | JavaScript | 1 |
 | **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[trailcut ↗](https://github.com/karthikrshet/trailcut)** | Plan the cheapest, tax-smart Regular → Direct mutual fund switch, lot by lot, from your CAS statement. AI a… | Python | 1 |
 | **[aegisheal ↗](https://github.com/karthikrshet/aegisheal)** | Agentic AI self-healing platform that monitors services, detects failures, finds the root cause with an AI… | JavaScript | 1 |
@@ -237,11 +238,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
-  <li><b>Nov 28, 2026</b> &nbsp;Merged pull request #7 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Nov 28, 2026</b> &nbsp;Opened pull request #7 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Nov 28, 2026</b> &nbsp;Merged pull request #6 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Nov 28, 2026</b> &nbsp;Opened pull request #6 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
-  <li><b>Nov 23, 2026</b> &nbsp;Pushed to <code>main</code> on <b>trailcut</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/trailcut'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Starred <b>x-agent-kit</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/x-agent-kit'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Merged pull request #15 in <b>x-agent-kit</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/x-agent-kit'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Opened pull request #15 in <b>x-agent-kit</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/x-agent-kit'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Closed pull request #6 in <b>x-agent-kit</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/x-agent-kit'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Closed pull request #9 in <b>x-agent-kit</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/x-agent-kit'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
