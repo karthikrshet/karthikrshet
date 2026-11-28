@@ -123,6 +123,7 @@ career-agents path ai-engineer
 <!-- PROJECTS_START -->
 | Project | Description | Stack | ★ |
 | :-- | :-- | :-- | --: |
+| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[trailcut ↗](https://github.com/karthikrshet/trailcut)** | Plan the cheapest, tax-smart Regular → Direct mutual fund switch, lot by lot, from your CAS statement. AI a… | Python | 1 |
 | **[aegisheal ↗](https://github.com/karthikrshet/aegisheal)** | Agentic AI self-healing platform that monitors services, detects failures, finds the root cause with an AI… | JavaScript | 1 |
 | **[A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support ↗](https://github.com/karthikrshet/A-Hybrid-Symbolic-Neural-Framework-for-Interpretable-Decision-Support)** | A multi-domain, multi-agent neuro-symbolic decision-support platform. Ask a question in plain language, the… | Python | 1 |
@@ -132,7 +133,6 @@ career-agents path ai-engineer
 | **[Errand-Agent ↗](https://github.com/karthikrshet/Errand-Agent)** | A chat agent that arranges home-service errands (plumber, electrician, AC servicing, cleaning) against a mo… | Python | 1 |
 | **[Career-Agents ↗](https://github.com/karthikrshet/Career-Agents)** | The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Voice Lab (27 La… | TypeScript | 70 |
 | **[ClaudeMark ↗](https://github.com/karthikrshet/ClaudeMark)** | Open-source, local-first AI watermark & provenance forensics platform (C2PA, metadata, steganography). | Python | 10 |
-| **[aiskills ↗](https://github.com/karthikrshet/aiskills)** | Reusable, tool-agnostic AI engineering skills, workflows, and evaluation playbooks for AI coding agents. | Python | 4 |
 | **[localpay ↗](https://github.com/karthikrshet/localpay)** | Test your Razorpay integration offline. A free, open-source local emulator of the Razorpay API with a test… | TypeScript | 3 |
 | **[payment-gateway ↗](https://github.com/karthikrshet/payment-gateway)** | A full-stack, production-grade payment gateway simulation modeling Stripe & modern payment rails. Features… | JavaScript | 3 |
 | **[symbolic-neural-risk-platform ↗](https://github.com/karthikrshet/symbolic-neural-risk-platform)** | Enterprise-grade hybrid neuro-symbolic decision support system combining deep learning with deterministic s… | TypeScript | 3 |
@@ -237,11 +237,11 @@ career-agents path ai-engineer
 
 <!-- CONTRIB_START -->
 <ul>
+  <li><b>Nov 28, 2026</b> &nbsp;Merged pull request #7 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Opened pull request #7 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Merged pull request #6 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
+  <li><b>Nov 28, 2026</b> &nbsp;Opened pull request #6 in <b>aiskills</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aiskills'>repo</a></li>
   <li><b>Nov 23, 2026</b> &nbsp;Pushed to <code>main</code> on <b>trailcut</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/trailcut'>repo</a></li>
-  <li><b>Nov 23, 2026</b> &nbsp;Starred <b>trailcut</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/trailcut'>repo</a></li>
-  <li><b>Nov 22, 2026</b> &nbsp;Created branch in <b>trailcut</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/trailcut'>repo</a></li>
-  <li><b>Nov 10, 2026</b> &nbsp;Pushed to <code>main</code> on <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
-  <li><b>Nov 10, 2026</b> &nbsp;Created branch in <b>aegisheal</b> &nbsp;&middot;&nbsp; <a href='https://github.com/karthikrshet/aegisheal'>repo</a></li>
 </ul>
 <!-- CONTRIB_END -->
 
